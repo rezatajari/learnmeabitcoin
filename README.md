@@ -18,9 +18,9 @@
     <p>دوستار شما</p>
     <p>رضا تجری</p>
     <hr>
-    <p>Email: reza.tajari70@gmail.com</p>
-    <p>Telegram ID: <a href="https://telegram.me/gateofmoney">https://telegram.me/gateofmoney</a></p>
-    <p>Linkedin: <a href="http://https//www.linkedin.com/in/reza-tajari-971818151/">http://https//www.linkedin.com/in/reza-tajari-971818151</a></p>
+    <p><a href="mailto:reza.tajari70@gmail.com">Email</a></p>
+    <p><a href="https://telegram.me/gateofmoney">Telegram ID</a></p>
+    <p><a href="http://https//www.linkedin.com/in/reza-tajari-971818151/">Linkedin</a></p>
     <hr>
     <h2>لیست مطالب</h2>
     <ol>
