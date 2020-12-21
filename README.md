@@ -38,7 +38,6 @@
     <p>دوستار شما</p>
     <p>رضا تجری</p>
     <h2 id="2">راه های ارتباطی</h2>
-    <hr>
     <p><a href="mailto:reza.tajari70@gmail.com">Email</a></p>
     <p><a href="https://telegram.me/gateofmoney">Telegram ID</a></p>
     <p><a href="http://https//www.linkedin.com/in/reza-tajari-971818151/">Linkedin</a></p>
