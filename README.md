@@ -1,6 +1,22 @@
 <div dir="rtl">
-    <h2>توضیحات</h2>
-    <h2>بنام خدا</h2>
+     <br>
+    <h2>محتوا</h2>
+    <ul>
+        <li>
+          <p><a href="#1">بنام خدا</a></p>
+        </li>
+        <li>
+            <p><a href="#2">راه های ارتباطی</a></p>
+        </li>
+        <li>
+            <p><a href="#3">لیست مطالب</a></p>
+        </li>
+        <li>
+            <p><a href="#4">مشارکت کننده ها</a></p>
+        </li>
+    </ul>
+    <hr>
+     <h2 id="1">بنام خدا</h2>
     <p>آدمی با مراقبه، بی کرانگی را در می یابد.</p>
     <p>شادی در بی کرانگی است.</p>
     <p>شادی در محدودیت نمی گنجد.</p>
@@ -21,12 +37,13 @@
 <p>برایتان آرزوی سربلندی و پیروزی دارم</p>
     <p>دوستار شما</p>
     <p>رضا تجری</p>
+    <h2 id="2">راه های ارتباطی</h2>
     <hr>
     <p><a href="mailto:reza.tajari70@gmail.com">Email</a></p>
     <p><a href="https://telegram.me/gateofmoney">Telegram ID</a></p>
     <p><a href="http://https//www.linkedin.com/in/reza-tajari-971818151/">Linkedin</a></p>
     <hr>
-    <h2>لیست مطالب</h2>
+       <h2 id="3">لیست مطالب</h2>
     <ol>
         <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/01.%20Blocks.md">Blocks - فرآیند ایجاد شدن بلاک</a></li>
         <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/02.%20Difficulty.md">Difficulty - سختی شبکه</a></li>
@@ -39,4 +56,11 @@
         <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/09.%20Digital%20Signatures.md">Digital Signatures - امضاء دیجیتال</a></li>
         <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/10.%20Digital%20Signatures%20(Signing%20%26%20Verifying).md">Digital Signatures (Signing & Verifying) - امضاء دیجیتال(امضاء کردن و تایید کردن)</a></li>
     </ol>
+    
+   ---
+   <h2 id="4">مشارکت کننده ها</h2>
+   <p>با سپاس فرآوان از مشارکت کننده هایی که در بهینه کردن این ریپوزیتوری کمک کردند و دغدغه مند جامعه بیت کوین و بلاکچین بودند</p>
+    <a href="https://github.com/rezatajari/learnmeabitcoin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoin" />
+</a>
 </div>
