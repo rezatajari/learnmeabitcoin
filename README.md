@@ -60,6 +60,6 @@
    <h2 id="4">مشارکت کننده ها</h2>
    <p>با سپاس فرآوان از مشارکت کننده هایی که در بهینه کردن این ریپوزیتوری کمک کردند و دغدغه مند جامعه بیت کوین و بلاکچین بودند</p>
     <a href="https://github.com/rezatajari/learnmeabitcoin/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoin" />
+  <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoins" />
 </a>
 </div>
