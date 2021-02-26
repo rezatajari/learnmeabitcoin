@@ -43,9 +43,9 @@
     <p>
     شما می توانید با مشارکت در بهبود و ترجمه سهم بزرگی در کمک به کامیونیتی بیت کوین و بلاکچین داشته باشید برای این کار لطفا Pull Request ارسال کنید ما از مشارکت شما استقبال می کنیم.
     </p>
-    <h2>مشارکت کننده ها</h2>
+    <h2>✨ مشارکت کننده ها</h2>
     <p>با سپاس فراوان از مشارکت کننده‌هایی که در ترجمه و بهبود این ریپوزیتوری کمک می‌کنند و دغدغه‌مند کامیونیتی بیت کوین و بلاکچین هستند.</p>
     <a href="https://github.com/rezatajari/learnmeabitcoin/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoins" />
+        <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoin" />
     </a>
 </div>
