@@ -25,16 +25,16 @@
     <h2>📄 لیست مطالب</h2>
     <p>
         <ul>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/01.%20Blocks.md">Blocks - فرآیند ایجاد شدن بلاک</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/02.%20Difficulty.md">Difficulty - سختی شبکه</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/03.%20Transactions.md">Transactions - تراکنش</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/04.%20Outputs.md">Outputs - خروجی ها</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/05.%20Output%20Locks.md">Output Locks - قفل های خروجی</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/06.%20Keys%20%26%20Addresses.md">Keys & Addresses - کلید ها و آدرس ها</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/07.%20Private%20Keys.md">Private Keys - کلید خصوصی</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/08.%20Public%20Keys.md">Public Keys - کلید عمومی</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/09.%20Digital%20Signatures.md">Digital Signatures - امضاء دیجیتال</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/10.%20Digital%20Signatures%20(Signing%20%26%20Verifying).md">Digital Signatures (Signing & Verifying) - امضاء دیجیتال(امضاء کردن و تایید کردن)</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Blocks.md">Blocks - فرآیند ایجاد شدن بلاک</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Difficulty.md">Difficulty - سختی شبکه</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Transactions.md">Transactions - تراکنش</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Outputs.md">Outputs - خروجی ها</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Output%20Locks.md">Output Locks - قفل های خروجی</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Keys%20%26%20Addresses.md">Keys & Addresses - کلید ها و آدرس ها</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Private%20Keys.md">Private Keys - کلید خصوصی</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Public%20Keys.md">Public Keys - کلید عمومی</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Digital%20Signatures.md">Digital Signatures - امضاء دیجیتال</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Digital%20Signatures%20(Signing%20%26%20Verifying).md">Digital Signatures (Signing & Verifying) - امضاء دیجیتال(امضاء کردن و تایید کردن)</a></li>
         </ul>
     </p>
     <h2>📞 ارتباط با من</h2>
