@@ -158,4 +158,3 @@
     <p>از تکنولوژی لذت ببریم!</p>
     <p><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/03.%20Transactions.md">رفتن به مطلب بعد</a></p>
 </div>
-</div>
