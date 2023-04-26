@@ -61,7 +61,7 @@
 </p>
     <h2>✨ مشارکت کننده ها</h2>
     <p>با سپاس فراوان از مشارکت کننده‌هایی که در ترجمه و بهبود این ریپوزیتوری کمک می‌کنند و دغدغه‌مند کامیونیتی بیت کوین و بلاکچین هستند.</p>
-    <a href="https://github.com/rezatajari/learnmeabitcoin/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoinss" />
-    </a>
+   <a href="https://github.com/rezatajari/learnmeabitcoinh/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoinh" />
+</a>
 </div>
