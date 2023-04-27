@@ -1,4 +1,7 @@
 <p align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <a href="https://github.com/rezatajari/learnmeabitcoin">
         <img src="./images/logo.svg" alt="Learn Me A Bitcoin" width="120" height="120">
     </a>
@@ -65,3 +68,25 @@
   <img src="https://contrib.rocks/image?repo=rezatajari/learnmeabitcoinh" />
 </a>
 </div>
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HT696"><img src="https://avatars.githubusercontent.com/u/83942452?v=4?s=100" width="100px;" alt="Hesam"/><br /><sub><b>Hesam</b></sub></a><br /><a href="#ideas-HT696" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
