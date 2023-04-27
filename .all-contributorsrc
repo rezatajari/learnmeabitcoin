@@ -71,7 +71,8 @@
         "content",
         "ideas",
         "review",
-        "design"
+        "design",
+        "bug"
       ]
     }
   ],
