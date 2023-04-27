@@ -14,6 +14,19 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Ziya-Sadr",
+      "name": "Ziya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37063625?v=4",
+      "profile": "https://urltr.ee/ziya",
+      "contributions": [
+        "data",
+        "content",
+        "ideas",
+        "review",
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
