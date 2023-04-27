@@ -78,7 +78,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HT696"><img src="https://avatars.githubusercontent.com/u/83942452?v=4?s=100" width="100px;" alt="Hesam"/><br /><sub><b>Hesam</b></sub></a><br /><a href="#ideas-HT696" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HT696"><img src="https://avatars.githubusercontent.com/u/83942452?v=4?s=100" width="100px;" alt="Hesam"/><br /><sub><b>Hesam</b></sub></a><br /><a href="#ideas-HT696" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/rezatajari/learnmeabitcoin/issues?q=author%3AHT696" title="Bug reports">🐛</a> <a href="#design-HT696" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
