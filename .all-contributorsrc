@@ -7,17 +7,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "HT696",
-      "name": "Hesam",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83942452?v=4",
-      "profile": "https://github.com/HT696",
-      "contributions": [
-        "ideas",
-        "bug",
-        "design"
-      ]
-    },
-    {
       "login": "Ziya-Sadr",
       "name": "Ziya",
       "avatar_url": "https://avatars.githubusercontent.com/u/37063625?v=4",
@@ -28,16 +17,18 @@
         "ideas",
         "review",
         "tutorial"
+     
       ]
     },
     {
-      "login": "alidevjimmy",
+       "login": "alidevjimmy",
       "name": "Ali Hamrani (Jimmy)",
       "avatar_url": "https://avatars.githubusercontent.com/u/59659737?v=4",
       "profile": "https://github.com/alidevjimmy",
       "contributions": [
         "data",
         "content"
+      
       ]
     },
     {
@@ -49,10 +40,11 @@
         "data",
         "content",
         "review"
+     
       ]
     },
     {
-      "login": "rezak0",
+       "login": "rezak0",
       "name": "Reza Khademi",
       "avatar_url": "https://avatars.githubusercontent.com/u/79699891?v=4",
       "profile": "https://github.com/rezak0",
@@ -60,10 +52,11 @@
         "design",
         "data",
         "content"
+     
       ]
     },
     {
-      "login": "alefvanoon",
+       "login": "alefvanoon",
       "name": "alefvanoon",
       "avatar_url": "https://avatars.githubusercontent.com/u/53198048?v=4",
       "profile": "https://alef.tokhmi.xyz",
@@ -75,6 +68,18 @@
         "review",
         "design",
         "bug"
+    
+      ]
+    },
+    {
+        "login": "HT696",
+      "name": "Hesam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83942452?v=4",
+      "profile": "https://github.com/HT696",
+      "contributions": [
+        "ideas",
+        "bug",
+        "design"
       ]
     }
   ],
