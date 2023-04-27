@@ -59,6 +59,20 @@
         "data",
         "content"
       ]
+    },
+    {
+      "login": "alefvanoon",
+      "name": "alefvanoon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53198048?v=4",
+      "profile": "https://alef.tokhmi.xyz",
+      "contributions": [
+        "data",
+        "code",
+        "content",
+        "ideas",
+        "review",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
