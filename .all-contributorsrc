@@ -48,6 +48,17 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "rezak0",
+      "name": "Reza Khademi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79699891?v=4",
+      "profile": "https://github.com/rezak0",
+      "contributions": [
+        "design",
+        "data",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

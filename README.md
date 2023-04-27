@@ -82,6 +82,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://urltr.ee/ziya"><img src="https://avatars.githubusercontent.com/u/37063625?v=4?s=100" width="100px;" alt="Ziya"/><br /><sub><b>Ziya</b></sub></a><br /><a href="#data-Ziya-Sadr" title="Data">🔣</a> <a href="#content-Ziya-Sadr" title="Content">🖋</a> <a href="#ideas-Ziya-Sadr" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/rezatajari/learnmeabitcoin/pulls?q=is%3Apr+reviewed-by%3AZiya-Sadr" title="Reviewed Pull Requests">👀</a> <a href="#tutorial-Ziya-Sadr" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alidevjimmy"><img src="https://avatars.githubusercontent.com/u/59659737?v=4?s=100" width="100px;" alt="Ali Hamrani (Jimmy)"/><br /><sub><b>Ali Hamrani (Jimmy)</b></sub></a><br /><a href="#data-alidevjimmy" title="Data">🔣</a> <a href="#content-alidevjimmy" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZeeAmini"><img src="https://avatars.githubusercontent.com/u/56531863?v=4?s=100" width="100px;" alt="ZeeAmini"/><br /><sub><b>ZeeAmini</b></sub></a><br /><a href="#data-ZeeAmini" title="Data">🔣</a> <a href="#content-ZeeAmini" title="Content">🖋</a> <a href="https://github.com/rezatajari/learnmeabitcoin/pulls?q=is%3Apr+reviewed-by%3AZeeAmini" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rezak0"><img src="https://avatars.githubusercontent.com/u/79699891?v=4?s=100" width="100px;" alt="Reza Khademi"/><br /><sub><b>Reza Khademi</b></sub></a><br /><a href="#design-rezak0" title="Design">🎨</a> <a href="#data-rezak0" title="Data">🔣</a> <a href="#content-rezak0" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
@@ -94,5 +95,5 @@
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
