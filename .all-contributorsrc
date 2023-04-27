@@ -27,6 +27,16 @@
         "review",
         "tutorial"
       ]
+    },
+    {
+      "login": "alidevjimmy",
+      "name": "Ali Hamrani (Jimmy)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59659737?v=4",
+      "profile": "https://github.com/alidevjimmy",
+      "contributions": [
+        "data",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
