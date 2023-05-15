@@ -17,18 +17,16 @@
         "ideas",
         "review",
         "tutorial"
-     
       ]
     },
     {
-       "login": "alidevjimmy",
+      "login": "alidevjimmy",
       "name": "Ali Hamrani (Jimmy)",
       "avatar_url": "https://avatars.githubusercontent.com/u/59659737?v=4",
       "profile": "https://github.com/alidevjimmy",
       "contributions": [
         "data",
         "content"
-      
       ]
     },
     {
@@ -40,11 +38,10 @@
         "data",
         "content",
         "review"
-     
       ]
     },
     {
-       "login": "rezak0",
+      "login": "rezak0",
       "name": "Reza Khademi",
       "avatar_url": "https://avatars.githubusercontent.com/u/79699891?v=4",
       "profile": "https://github.com/rezak0",
@@ -52,11 +49,10 @@
         "design",
         "data",
         "content"
-     
       ]
     },
     {
-       "login": "alefvanoon",
+      "login": "alefvanoon",
       "name": "alefvanoon",
       "avatar_url": "https://avatars.githubusercontent.com/u/53198048?v=4",
       "profile": "https://alef.tokhmi.xyz",
@@ -68,11 +64,10 @@
         "review",
         "design",
         "bug"
-    
       ]
     },
     {
-        "login": "HT696",
+      "login": "HT696",
       "name": "Hesam",
       "avatar_url": "https://avatars.githubusercontent.com/u/83942452?v=4",
       "profile": "https://github.com/HT696",
@@ -80,6 +75,15 @@
         "ideas",
         "bug",
         "design"
+      ]
+    },
+    {
+      "login": "this-is-not-a-user",
+      "name": "this-is-not-a-user",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131044475?v=4",
+      "profile": "https://github.com/this-is-not-a-user",
+      "contributions": [
+        "translation"
       ]
     }
   ],
