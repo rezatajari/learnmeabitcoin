@@ -1,11 +1,33 @@
 <div dir='rtl'>
+
 <h1>شبکه&zwnj;ی بیت&zwnj;کوین</h1>
 <p><span style="color: #999999;"> شبکه&zwnj;ی کامپیوترهایی که برنامه&zwnj;ی بیت&zwnj;کوین رو اجرا می&zwnj;کنن.</span></p>
-<h2>شبکه&zwnj;ی بیت&zwnj;کوین چیه؟</h2>
+
+<h2>فهرست</h2>
+<hr>
+    <ul>
+        <li>
+            <p><a href="#1">شبکه‌ی بیت‌کوین چیه؟</a></p>
+        </li>
+        <li>
+            <p><a href="#2">این شبکه چیکار میکنه؟</a></p>
+        </li>
+        <li>
+            <p><a href="#3">کی شبکه رو برپا نگه می‌داره؟</a></p>
+        </li>
+              <li>
+            <p><a href="#4">چطوری می‌تونم به شبکه بپیوندم؟</a></p>
+        </li>
+    </ul>
+    <hr>
+  <hr>
+
+
+<h2 id="1">شبکه&zwnj;ی بیت&zwnj;کوین چیه؟</h2>
 <p>شبکه&zwnj;ی بیت&zwnj;کوین از همه&zwnj;ی کسایی تشکیل شده که نرم&zwnj;افزار بیت&zwnj;کوین، یا همون نرم&zwnj;افزار مشتری (کلاینت) بیت&zwnj;کوین رو اجرا می&zwnj;کنن.</p><br>
 <br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/network/png/01-software_network.png" alt="" width="600" height="416" /><br>
 <p style="text-align: center;"><span style="color: #999999;">بیت&zwnj;کوین یه شبکه از آدماییه که یه برنامه&zwnj;ی کامپیوتری یکسان اجرا می&zwnj;کنن</span>.</p>
-<h2>این شبکه چیکار میکنه؟</h2><br>
+<h2 id="2">این شبکه چیکار میکنه؟</h2><br>
 <p>آدما (یا درست&zwnj;تر بگیم همون نرم&zwnj;افزارای مشتری&zwnj; بیت&zwnj;کوین) روی شبکه <strong>با هم حرف می&zwnj;زنن.</strong></p>
 <br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/network/png/02-software_network_talking.png" alt="" width="600" height="433" /><br>
 <p style="text-align: center;"><span style="color: #999999;">خیلی اجتماعی</span></p>
@@ -21,13 +43,13 @@
  <li><p>.همه روی شبکه برابرن، پس (هممون) همتاییم</p></li>
 </ol>
 </blockquote>
-<h2>کی شبکه رو برپا نگه می&zwnj;داره؟</h2>
+<h2 id="3">کی شبکه رو برپا نگه می&zwnj;داره؟</h2>
 <p>همونجور که گفته شد پاسخش میشه هرکسی اینترنت داشته باشه و نرم&zwnj;افزار مشتری بیت&zwnj;کوین رو اجرا می&zwnj;کنه</p>
 <p>جدیا! هرکسی می&zwnj;تونه به شبکه&zwnj;&zwnj;ی بیت&zwnj;کوین بپیونده. فقط اینترنت میخوای و مشتری بیت&zwnj;کوین، که یه نرم&zwnj;افزاره مثل تمام نرم&zwnj;افزارای دیگه.</p>
 <p>هر زمان آوردیش بالا شدی یه گره(نود) توی شبکه&zwnj;ی بیت&zwnj;کوین.</p>
 <br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/network/png/05-nodes_network.png" alt="" width="600" height="416" /><br />
 <p style="text-align: center;"> گره - یه راهِ یه خورده فشرده&zwnj;تر گفتن &laquo;یکی که نرم&zwnj;افزار مشتری بیت&zwnj;کوین بالا آورده و تو شبکه اطلاعات پخش می&zwnj;کنه&raquo;.</p>
-<h2>چطوری می&zwnj;تونم به شبکه بپیوندم؟</h2>
+<h2 id="4">چطوری می&zwnj;تونم به شبکه بپیوندم؟</h2>
   <p>این شد حرف!<p/>
   <p>تنها کاری که باید بکنی اینه که نرم&zwnj;افزار مشتری بیت&zwnj;کوین رو دانلود کنی و اجرا کنی.</p>
   <p>مشتری رو که اجرا کردی به بقیه گره&zwnj;ها وصل میشه و شروع میکنه دانلود کردن یه کپی از کل زنجیره&zwnj;بلوک(فایلی که تمام تراکنشا توشه)بعدش مشتریت تراکنشا رو از دیگر گره&zwnj;ها میگیره و خودش تو شبکه پخش می&zwnj;کنه.</p>
