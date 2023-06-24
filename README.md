@@ -24,6 +24,8 @@
     <h2>📄 فهرست مطالب</h2>
     <p>
         <ul>
+		    <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Bitcoin Network.md">Bitcoin Network - شبکه‌ی بیت‌کوین</a></li>
+			<li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Nodes.md">Nodes - گره‌ها</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Blocks.md">Blocks - بلوک‌ها</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Difficulty.md">Difficulty - سختی شبکه</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Transactions.md">Transactions - تراکنش‌ها</a></li>
