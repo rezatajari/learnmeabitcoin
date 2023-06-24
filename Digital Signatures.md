@@ -65,7 +65,7 @@
     <p>بنابراین، هر امضای دیجیتال به تراکنشی وصله که در اون استفاده می‌شه. </p>
     <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-environment.png"><br><br>
     <p>پس، اگر کسی بخواد از این امضای دیجیتال تو یه تراکنش دیگه استفاده کنه، این امضا با داده‌ی تراکنش در حافظه‌ی امضای دیجیتال </p>
-    <p>هم‌خوانی نخواهد داشت و نودهای شبکه‌ی بیت‌کوین قبولش نمی‌کنن.</p>
+    <p>هم‌خوانی نخواهد داشت و گره‌های شبکه‌ی بیت‌کوین قبولش نمی‌کنن.</p>
     <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-environment-different.png"><br><br>
     <h4>در نتیجه، امضای دیجیتال هر تراکنش‌، از دستکاری شدن همون تراکنش هم محافظت می‌کنه. </h4>
     <br>
