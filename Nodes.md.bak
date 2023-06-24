@@ -46,7 +46,6 @@
 <h2 id="3">باید گره باشم که از بیت&zwnj;کوین استفاده کنم؟</h2>
 <p>نه.</p>
 <p>بدون گره هم می&zwnj;تونی بیت&zwnj;کوین بگیری و بفرستی. تنها باید تراکنش رو ببری تو شبکه&zwnj;ی بیت&zwnj;کوین و دیگه حله.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/nodes/png/03-nodes_network_insert_transaction.png" alt="" width="566" height="321" /></p>
-<p style="text-align: center;"><span style="color: #999999;">اگر به یه گره پیام شامل تراکنش رو بفرستی نهایت سرتاسر شبکه پخش می&zwnj;شه</span></p>
+<p>اگر به یه گره پیام شامل تراکنش رو بفرستی نهایت سرتاسر شبکه پخش می&zwnj;شه</p>
 <p>از والت که (بدون پیوند به گره خودت -م) استفاده می&zwnj;کنی تراکنش&zwnj;هایی که می&zwnj;سازی رو (گرهِ سازنده&zwnj;ی والت -م) به خورد شبکه می&zwnj;ده</p>
 </div>
