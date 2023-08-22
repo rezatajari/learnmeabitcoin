@@ -34,7 +34,7 @@
 
 <p>منظورم از &laquo;با هم حرف می&zwnj;زنن&raquo; اینه که اطلاعاتی در مورد اینکه جاهای دیگه&zwnj;ی شبکه چی داره می&zwnj;گذره جابجا می&zwnj;کنن. این کار رو با ارسال پیام به هم انجام می‌دن<br />برای نمونه، یه پیام می&zwnj;تونه <strong>دانشی در مورد یه تراکنش جدید</strong> باشه.</p>
 <p style="text-align: center;"><img src="https://learnmeabitcoin.com/beginners/images/network/png/03-software_network_talking_transaction.png" alt="" width="600" height="452" />.<br /><span style="color: #999999;">همرسانی اطلاعات در مورد تراکنش&zwnj;های جدید</span></p>
-<p>همرسانی اطلاعات (مانند تراکنش&zwnj;ها) چیزیه که می&zwnj;ذاره همه روی شبکه بتونن بروز بمونن، که خیلی مهمه اگر بخوای یه ارز دیجیتالی روی اینترنت اجرا کنی.</p>
+<p>همرسانی اطلاعات (مانند تراکنش&zwnj;ها) چیزیه که می&zwnj;ذاره همه روی شبکه بتونن بروز بمونن، که خیلی مهمه اگه بخوای یه ارز دیجیتالی روی اینترنت اجرا کنی.</p>
 <br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/network/png/04-software_network_talking_transaction_consensus.png" alt="" width="600" height="400" /><br><p style="text-align: center;"><span style="color: #999999;">سرانجام همه در مورد تراکنشای جدید خبر دارن. (آفرین به این) شبکه&zwnj;ی خوب.</span></p>
 <blockquote>
 <p>به شبکه&zwnj;ی بیت&zwnj;کوین می‌گن &laquo;شبکه&zwnj;ی همتابه&zwnj;همتا&raquo; چون:<p/>
