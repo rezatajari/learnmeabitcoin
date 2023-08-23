@@ -49,12 +49,12 @@
     <p>بلوک‌ها رو استخراج‌کننده‌های بیت‌کوین (ماینرها) بوجود میارن. </p>
     <h3>خب، ادامه بده …</h3>
     <p>وقتی یه تراکنشِ بیت‌کوین می‌سازی، درجا در زنجیره‌بلوک قرار نمی‌گیره. در عوض، توی یه استخر تراکنش (یا استخر حافظه) نگه‌داری می‌شه. </p>
-    <img src="https://learnmeabitcoin.com/beginners/images/blocks/png/01-transaction_pool.png"><br><br>
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/01-transaction_pool.png"><br><br>
     <p>اگه یه استخراج‌کننده باشی، وظیفه‌ت جمع‌آوری تراکنش‌ها از استخر تراکنش و ایجاد یه بلوک کاندید برای قرارگیری روی زنجیره‌بلوکه. حالا باید <em>سعی کنی</em> که این «بلوک کاندید» رو به زنجیره‌بلوک اضافه کنی. </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/blocks/png/02-candidate_block.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/02-candidate_block.png"><br><br>
     <h2 id="2">سربرگ بلوک </h2>
     <p>همچنین، به عنوان یه استخراج‌کننده، باید به هر بلوک کاندید یه سربرگ اختصاص بدی؛ سربرگ عملا یعنی یه سری فراداده (متادیتا) راجع‌به بلوک. </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/blocks/png/03-block_header.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/03-block_header.png"><br><br>
     <p>زمانی که استخراج‌کننده‌ها می‌خوان بلوک رو روی زنجیره‌بلوک قرار بدن از این فراداده استفاده می‌کنن. </p>
     <blockquote>
         <p><strong>فراداده‌</strong> (مِ)(دِ): داده‌ای که سایر داده‌ها را توضیح می‌دهد و به عنوان یک برچسب توصیفی عمل می‌کند.</p>
@@ -86,7 +86,7 @@
     <p> برای اضافه کردن یه بلوک به زنجیره‌بلوک باید،
      <strong>داده‌ی سربرگ بلوک رو هش کنی</strong> و امیدوار باشی
       که این مقدار از یه <em>مقدار هدف مشخصی</em> کم‌تر باشه. </p>
-    <br><br> <img src="https://learnmeabitcoin.com/beginners/images/blocks/png/05-block_target.png"><br><br>
+    <br><br> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/05-block_target.png"><br><br>
     <p>
     مقدار هدف از طریق عددی به اسم
     «<a href="./Difficulty.md">
@@ -114,7 +114,7 @@
     <em>
     عدد اضافی 
     </em>هش کنی.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/blocks/png/06-block_nonce.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/06-block_nonce.png"><br><br>
     <p>به این عدد، تک‌بار گفته می‌شه. یه چیز الکیه که استخراج‌کننده‌ها ازش استفاده می‌کنن تا هشِ بلوکی زیر مقدار هدف بدست بیارن. </p>
     <blockquote>
         <p><strong>تک‌بار (نانس)</strong>: </p>
@@ -125,14 +125,14 @@
     اگه اولین تک‌بار جواب نداد (با شروع از 0)، هی یکی بهش اضافه کن و از سربرگ بلوک باز هش بگیر، در نهایت 
     تک‌باری پیدا می‌کنی که هشی رو بهت می‌ده که از مقدار هدف کم‌تره. 
     </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/blocks/png/06-block_nonce_success.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/06-block_nonce_success.png"><br><br>
     <blockquote>
     <p>می‌دونم که این مقادیر هش شامل حروف هم می‌شن؛ اما می‌تونیم به چشم اعداد بهشون نگاه کنیم. این هش‌ها مقادیر شانزده‌شانزدهی 
     (بر مبنای ۱۶ هستن) و کامپیوترها عاااااشق کار کردن با این اعدادن. </p>
     </blockquote>
     <h3>تبریک می‌گم</h3>
     <p>وقتی تک‌باری رو پیدا کردی که جواب بده، بلوک «حل» شده و همه‌ی تراکنش‌هایی که توی این بلوک بودن روی زنجیره‌بلوک قرار می‌گیرن. </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/blocks/png/07-block_complete.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/blocks/png/07-block_complete.png"><br><br>
     <p>حالا که بلوک حل شده، همه‌ی استخراج‌کننده‌ها به استخر تراکنش برمی‌گردن تا روی بلوک کاندید بعدی کار کنن. برای این کار، هش بلوک 
     موفق تو رو، که به زنجیره‌بلوک اضافه شده، در سربرگ بلوک بعدی خودشون استفاده می‌کنن؛ و مسابقه‌ی قرار دادن بلوکِ جدیدِ 
     تراکنش‌ها روی زنجیره‌بلوک از سر گرفته می‌شه. 

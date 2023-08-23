@@ -77,12 +77,12 @@
     </table>
     <br>
     <p>درواقع، یه بیت خیلی کوچیکه و فقط می‌تونه مقداری مثل صفر یا یک رو در خودش نگهداری کنه.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/private_keys/png/01-bit.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/private_keys/png/01-bit.png"><br><br>
     <p>بااین‌حال، از بیت‌ها می‌شه برای نشون‌دادن انواع دیگه‌ای از داده‌ها هم استفاده کرد، مثل اعداد روزمره.</p>
     <p>برای مثال، در اینجا، چگونگی ذخیره‌شدن چند عدد مختلف رو در کامپیوتر نشون می‌دیم:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/private_keys/png/01-bit-numbers.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/private_keys/png/01-bit-numbers.png"><br><br>
     <p>یه عدد ۲۵۶ بیتی عددیه که می تونه با استفاده از حداکثر ۲۵۶ بیت نمایش داده بشه.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/private_keys/png/01-bit-numbers-max.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/private_keys/png/01-bit-numbers-max.png"><br><br>
     <p>یا به عبارت دیگه، یه عدد ۲۵۶ بیتی بین مقادیر زیره:</p>
     <p dir="ltr">min: 0</p>
     <p dir="ltr">max: 115792089237316195423570985008687907853269984665640564039457584007913129639935</p>
@@ -92,14 +92,14 @@
     <h2 id="4">کلید خصوصی از کجا میاد؟</h2>
     <p>دروغ نمی‌گفتم وقتی داشتم می‌گفتم کلیدهای خصوصی به‌صورت تصادفی ایجاد می‌شن.</p>
     <p>راستش رو بخواید، از هر نوع نرم‌افزار بیت‌کوین که برای تولید کلید خصوصی استفاده کنید، شعبده‌بازی نمی‌کنن؛ اون‌ها فقط یه عدد ۲۵۶ بیتی تصادفی به شما می‌دن.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/private_keys/png/02-lol-private-key-machine.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/private_keys/png/02-lol-private-key-machine.png"><br><br>
     <p>بنابراین، هیچ دلیلی وجود نداره که شما نتونید کلید خصوصی خودتون رو ایجاد کنید. همه‌ی شما نیاز دارید بتونید یه عدد ۲۵۶ بیتی تصادفی ایجاد کنید.</p>
     <p>این کار رو می‌تونید به چند روش مختلف انجام بدید:</p>
     <br>
     <h3>مثال</h3>
     <ol>
         <li>۲۵۶ بار سکه بندازی</li><br><br>
-        <img src="https://learnmeabitcoin.com/beginners/images/private_keys/png/02-1-coin.png">
+        <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/private_keys/png/02-1-coin.png">
         <p dir="ltr">This will give you a private key in binary.</p><br><br>
         <li>از زبان برنامه‌نویسی موردعلاقه‌تون برای تولید عدد تصادفی استفاده کنید.</li>
         <br>
@@ -109,7 +109,7 @@
         <p dir="ltr">random.SystemRandom().randint(1, 115792089237316195423570985008687907852837564279074904382605163141518161494336)</p>
         <p dir="ltr">This will give you a private key in decimal.</p>
         <li>بعضی از این هش‌ها از تابع هش SHA256 استفاده می‌کنن.</li><br><br>
-        <img src="https://learnmeabitcoin.com/beginners/images/private_keys/png/02-3-sha256.png">
+        <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/private_keys/png/02-3-sha256.png">
         <p dir="ltr">This will give you a private key in hexadecimal.</p>
     </ol>
     <p>همه‌ی این روش‌ها به شما یه عدد تصادفی ۲۵۶ بیتی می‌دن. و اگه شما یه عدد ۲۵۶ بیتی دارید، شما یه کلید خصوصی دارید.</p>

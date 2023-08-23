@@ -24,22 +24,22 @@
     </p>
     <p>
     شما یه استخراج کننده بیت‌کوین هستید، بر اساس کاری که انجام دادید موفق شده اید که یه بلوک از معاملات را حل کنید و دسته از بیت‌کوین ها که مقدار آن 25 عدد هست را بدست آورده اید.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/00-generation-transaction.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/00-generation-transaction.png"><br><br>
     <p>باید توجه داشت که هر استخراج‌کننده‌ (استخراج کننده) آدرس خودش رو بالای هر بلوک قرار می دهد. با این تفاسیر اگه موفق به حل بلوک شوند مقدار جایزه بیت‌کوین بابت این زحمت کشیده شده، به آدرس مورد نظر ریخته می شود.</p>
     <p>بنابراین این اون چیزیه که از وضعیت فعلی ادرس بیت‌کوین استخراج کننده می بینیم:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-before.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-before.png"><br><br>
     <p>به طور طبیعی و غریزی وقتی یه همچین مبلغی به حساب شما می شینه جشن میگیرید و با خودتون میگید برم یه خرجی کنم بابت این زحمتی که کشیدم و مزشو بچشم، بنابراین با مقداری از اون تصمیم می گیرید برای خودتون خرج کنید، شایدم پولتون اضافه بیاد و هوس از دست دادنش
         به سرتون زد و ریختید تو سایت های پانزی و اسکم و اون رو ریختید تو جیب کلاه بردارها !!</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-beer.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-beer.png"><br><br>
     <p>بنابراین اولین چیزی که شما می خواهید انجام بدید اینطوره که به طور مثال 1 دونه از اون 25 بیت‌کوین که با سختی بدست آوردید رو خرج کنید، ینی 1 دونه از دسته ی 25 تایی خودتون می خواهید خارج کنید؛ این موضوع حساسیه، اما این کار به چه صورت انجام می گیره.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-chip.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-chip.png"><br><br>
     <p>بجای اینکه ما 1 بیت‌کوین ارسال کنیم باید مجموع (کل) 25 بیت‌کوین که بدست آوردیم رو ارسال کنیم.</p>
     <p>اما برای اینکه مطمئن باشیم کل 25 بیت‌کوین رو نمی خوایم؛ برای چیزی پرداخت کنیم که فقط 1 بیت‌کوین نیاز هست بنابراین ما این دسته رو تقسیم می کنیم به 2 مسیر مجزا، توجه کنید که اینجاش مهمه واقعا:</p>
     <ol>
         <li>جایی که می خوایم 1 بیت‌کوین رو خرج کنیم</li><br>
         <li>بازگشت به آدرس خودمان (یا جایی که مد نظر ماست)</li>
     </ol>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1.png">
     <p>The newly created batches are called outputs.</p>
     <br><br>
     <p>درسته اینجا در ظاهر و لحظه ابتدایی یه لقمه رو دور سر خودمون چرخوندیم ولی در نهایت نتیجه یکسان هست، ینی هدف ما این بوده که 1 بیت‌کوین از 25 بیت‌کوین رو خرج کنیم، در ساختار تراکنش های خروجی بیت‌کوین به این شکل اون 1 بیت‌کوین خرج می شه، ینی 25 تا میره
@@ -48,7 +48,7 @@
         <p>جالبه بدونیم که دلیل اینکه به این صورت این تراکنش ها انجام می گیره، راه ساده و امنیت داشتن اون از دیدگاه برنامه نویسی می باشد.</p>
     </blockquote>
     <p>به هر حال ! در شکل زیر می بینیم که آدرس های بیت‌کوین بعد از این فرآیند به چه شکل می شوند:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-after.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-after.png"><br><br>
     <p>در نتیجه فروشگاه یا اون جایی که ما 1 بیت‌کوین رو خرج کردیم، یه دسته جدید 1 بیت‌کوینی داره، خودمونم که یه دسته ایجاد کردیم که 24 بیت‌کوین توشه و این 2 از دسته اول (اصلی) که حاوی 25 بیت‌کوین بود ایجاد شدند.</p>
     <p>بنابراین در ظاهر درسته که ما فقط می بینیم 1 بیت‌کوین را از حساب خود خارج کرده ایم، اما الان با اتفاقاتی که برای این فرآیند انجام می گیرد هم آشنا شده ایم.</p>
     <br>
@@ -65,12 +65,12 @@
     </h2>
     <p>خیله خب از این به بعد بجای استفاده از کله دسته های از مقادیر از کلمه خروجی ها استفاده می کنیم. </p>
     <p>بعد از اینکه مغازه یا هر مکان دیگه ای که با بیت‌کوین اجناس خودش رو فروخت به همین طریق بیت‌کوین ها به حسابش می شینن و کسب و کار خودش رو راه می ندازه.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2-before.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2-before.png">
     <br><br>
     <p>اما همانطور که می دونیم، فروشگاه نمی تونه مثل یه درخت رشد کنه، بنابراین باید تجهیزات خودش رو اضافه کنه و قدیمی ها رو بده و جدید بگیره و یه پیشرفتی در خودش بده که توسعه بیشتر پیدا کنه.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-beer-machine.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-beer-machine.png"><br><br>
     <p>یکی میاد و این آگهی رو میبینه، و همینطور مشاهده می کنه که با بیت‌کوین به قیمت 4.2 بیت‌کوین به فروش گذاشته شده، بنابراین تصمیم به خرید اون گرفته می شه..</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2.png">
     <p>Constructing the transaction for the beer machine. </p><br><br>
     <p>اما در این شکل حالت هایی رو می بینید که در اون چند نکته وجود داره که البته توضیح اون سخت نیست:</p>
     <ol>
@@ -82,7 +82,7 @@
         <li>با توجه به اینکه مجموع کل 4.5 هست بنابراین باید خروجی ها طوری باشند که یکی 4.2 و ما بقیش 0.3 ایجاد شوند.</li>
     </ol>
     <p>بعد از انجام این فرآیند شکل تراکنش بیت‌کوین و عملیات معامله در حساب به شکل زیر می شود:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2-after.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2-after.png"><br><br>
     <p>به این نکته هم توجه کنیم که خروجی هایی که به عنوان ورودی از آنها استفاده کردیم و ینی اونها رو خرج کردیم؛ دیگه نمی شه از اونها دوباره استفاده کرد و خرجشون کرد.</p>
     <p>ولی هنوز اون خروجی هایی که بلااستفاده برگشت خوده به حساب یا باقیمانده در حساب هستند قابل استفاده می باشند، که درواقع اون ها رو با تراکنش های خرج نشده و قابل استفاده نام گذاری می کنیم که مخفف آن می شود (UTXOs).</p>
     <p>مقدار کل تعداد بیت‌کوین های داخل یه حساب برابر هست با مجموع کل همین UTXOs های حساب.</p>
@@ -99,7 +99,7 @@
     <p>بدون اینکه هزینه تراکنش رو پرداخت کنید، معاملات شما همگی در یه بلوک اضافه می شوند، این بخاطر اینه که هزینه یه معامله اولویت انجام شدن تراکنش شما رو نشون میده.</p>
     <p>کارمزد همان مقداری هست که استخراج کننده برای انجام دادن عملیات تراکنش شما از شما دریافت می کنه، بنابراین برای انگیزه به استخراج‌کننده‌ (ماینر) که یه تراکنش رو بزاره داخل یه بلوک این نوع هزینه قرار داده شده است.</p>
     <p>فرض می کنیم تراکنشی رو انجام داده ایم و هزینه اون رو هم در نظر گرفته ایم و در شبکه فرستادم.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/outputs/png/03-transaction2-fee.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/03-transaction2-fee.png"><br><br>
     <p>وقتی ما یه تراکنشی میزنیم از خروجی های خودمون که به ورودی های یه بالانس دیگه اضافه بشه، مقداری بیت‌کوین رو میفرستیم و کلا کار ترکیبات خروجی رو انجام میدیم</p>
     <p>(اینکه به چه شکلی از ترکیب این خروجی انجام بگیره)، اما اون وسطا خروجی کارمزد رو نمیبینیم، ولی اگه توجه کنیم به مقادیری که از حساب خارج شده؛ میبینیم مقدار قبل از کم شدن، بزرگتر از مقدار پس از انجام تراکنش هست !</p>
     <p>این همون مقدار کم که بوجود میاد، همون میزانیه که کارمزد هست و استخراج‌کننده‌ می تونه بنام خودش تراکنش رو ثبت کنه و برداره.</p>

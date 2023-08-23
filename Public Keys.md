@@ -46,10 +46,10 @@
     <p>به این تابع خاص <strong>ضرب منحنی بیضوی</strong> گفته می‌شه، که درواقع شامل بالاوپایین‌پریدن روی گراف (خط) یه منحنی بیضوی می‌شه تازمانی‌که به یه مختصات نهایی روی گراف برسید. اعداد این مختصات نهایی کلید عمومی شما رو به شما می‌دن. به شکل زیر توجه کنید.</p>
     <br>
     <h2 id="4">منحنی بیضوی چه شکلیه؟</h2>
-    <p>شبیه شکل زیر:</p><br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve.png"><br><br>
-    <p>علاوه‌براین، منحنی بیضوی استفاده‌شده در بیت‌کوین دارای نقطه‌ی شروع مشخصیه.</p><br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve-g.png"><br><br>
+    <p>شبیه شکل زیر:</p><br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve.png"><br><br>
+    <p>علاوه‌براین، منحنی بیضوی استفاده‌شده در بیت‌کوین دارای نقطه‌ی شروع مشخصیه.</p><br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve-g.png"><br><br>
     <p>اگه ما روی این منحنی عملیات ضرب انجام بدیم (به عنوان مثال، نقطه رو در عدد دو ضرب کنیم)، می‌تونیم مثل تصویر زیر در اطراف منحنی حرکت کنیم.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve-g-multiplication.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve-g-multiplication.png">
     <p dir="ltr">The fact that we can draw a tangent anywhere on the curve and it will intersect <i>one</i> other point on the curve is a special feature of elliptic curves.</p>
     <br><br>
     <p>و تمام. ما الآن مختصات نقطه‌ی (G) رو در عدد دو ضرب کردیم و مختصات نهایی (2G) رو یافتیم.</p>
@@ -68,7 +68,7 @@
     <br>
     <p dir="ltr">public_key = 108165236279178312660610114131826512483935470542850824183737259708197206310322 * G</p>
     <p>یا به عبارت دیگه، «کلید خصوصی»بار بالاوپایین پریدن روی منحنی بیضوی. اگه یادتون باشه، در مبحث مربوط به کلیدهای خصوصی یاد گرفتیم که کلید خصوصی یه عدده که به‌صورت تصادفی تولید شده.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/02-public-key-multiplication.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/02-public-key-multiplication.png">
     <p dir="ltr">You get the idea.</p>
     <br><br>
     <p>نقطه‌ی پایانی که روی منحنی بیضوی به‌دست میاد مختصاتی به شما می‌ده، و درواقع این مختصات همون کلید عمومی شما رو تشکیل می‌ده.</p>
@@ -87,7 +87,7 @@
     <p>برای صرفه‌جویی از فضای استفاده‌شده، کلیدهای عمومی رو (این روزها) تنها از مختصات x کامل استفاده می‌کنن.</p>
     <p>این به‌این‌خاطره که منحنی بیضوی تشکیل‌شده یه معادله‌ست (y^2 = x^3 + 7)، به این معنی که اگه شما مختصات x رو دارید، می‌تونید y متناظر رو براساس معادله به‌دست بیارید.</p>
     <p>بااین‌حال، چون y^2 در این معادله داریم، y ما می‌تونه عدد مثبت یا منفی باشه:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/03-y-polarity.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/03-y-polarity.png"><br><br>
     <p>بنابراین، تنها اطلاعات اضافی‌ای که برای به‌دست‌آوردن مختصات دقیق y نیاز دارید این هست که ببینید مختصات y در بالا یا پایین محور x هست، و البته برگرفته از کارکرد منحنی بیضوی هم هست:</p>
     <ol>
         <li>اگه y زوج باشه، بنابراین، در بالای محور x هست</li><br>
@@ -99,7 +99,7 @@
         <li>زوج = 02</li><br>
         <li>فرد = 03</li>
     </ol>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/03-y-polarity-prefix.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/03-y-polarity-prefix.png"><br><br>
     <p>بنابراین، درحالی‌که کلید عمومی اصلی با 04 شروع می‌شه، یه کلید عمومی فشرده با 02 یا 03 شروع می‌شه:</p>
     <p dir="ltr">public_key = 04b4632d08485ff1df2db55b9dafd23347d1c47a457072a1e87be26896549a87378ec38ff91d43e8c2092ebda601780485263da089465619e0358a5c1be7ac91f4</p>
     <p dir="ltr">public_key_compressed = 02b4632d08485ff1df2db55b9dafd23347d1c47a457072a1e87be26896549a8737</p>
@@ -124,9 +124,9 @@
         <li>من می‌تونم کلید خصوصی خودم رو به منحنی بیضوی بدم و با محاسبات ریاضی‌ای که در اون انجام می‌گیره، به یه مقدار (ارزش) جدیدی دست پیدا کنم.</li><br>
         <li>من می‌تونم کلید عمومی خودم رو در منحنی‌های بیضوی دیگه‌ای قرار بدم و از روی اون مقدار (ارزش) دیگه‌ای رو به‌دست بیارم.</li>
     </ol>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/04-keys-ec-math.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/04-keys-ec-math.png"><br><br>
     <p>درحال‌حاضر، این مقادیر کمی که مشاهده می‌کنید، هم‌پوشانی مقادیر جدیدی هستن که به‌وجود اومدن.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/public_keys/png/04-keys-ec-math-verification.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/public_keys/png/04-keys-ec-math-verification.png">
     <p dir="ltr">The new value I can create from my private key is called a digital signature.</p><br><br>
     <p>و...</p>
     <br>

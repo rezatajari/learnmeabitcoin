@@ -42,19 +42,19 @@
     <p>با تولید یه عدد تصادفی شروع می‌کنیم؛ و بعد، این عدد رو با نقطه‌ی تولیدکننده‌ی خم بیضوی (نقطه‌ای که برای تولید<a href="Public%20Keys.md"> کلید عمومی</a> هم 
     استفاده می‌شه) ضرب می‌کنیم.
      </p>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-point.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-point.png">
     <br>
     <br>
     <p>جز تصادفی امضای دیجیتال، نقطه‌ای روی خم منحنیه که نتیجه‌ی نهایی رو می‌ده. اما ما فقط مختصات xش رو در نظر می‌گیرم: </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-point-x.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-point-x.png">
     <br>
     <br>
     <p>به اختصار بهش می‌گیم «r». </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-r.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-r.png">
     <br>
     <br>
     <p><strong>عملا این کار شبیه تولید یه کلید خصوصی و یه کلید عمومیه. با این تفاوت که این‌جا داریم یه بخش تصادفی هم به امضای 
@@ -66,7 +66,7 @@
     <p>اول، کلید خصوصی‌مون رو برمی‌داریم و در r (مختصات x از نقطه‌ی تصادفی منحنی‌ای که پیدا کردیم) ضرب می‌کنیم. </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey.png">
     <br>
     <br>
     <p>مرحله‌ی بعد، چیزی رو که قراره امضا کنیم رو هم بهش اضافه می‌کنیم. به این چیز «پیام» گفته می‌شه. در بیت‌کوین، 
@@ -74,20 +74,20 @@
     </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey-thing.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey-thing.png">
     <p>مشمول کردن هش تراکنش، باعث می‌شه که امضا به یه تراکنش وصل بشه (و قابل استفاده تو تراکنش دیگه‌ای نباشه.)</p>
     <br>
     <br>
     <p>در نهایت، به یه اندازه‌ی مناسب، همه‌ی این‌ها رو به عدد تصادفی اولیه‌مون تقسیم می‌کنیم:</p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey-thing-randnum.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey-thing-randnum.png">
     <br>
     <br>
     <p>و … هجی مجی لاترجی! جزء حیاتی «امضا» از امضای دیجیتال‌مون آماده‌ست. به اختصار به این بخش می‌گیم «s». </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-rs.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-rs.png">
     <p>Mr. D Signature.</p>
     <br>
     <br>
@@ -108,7 +108,7 @@
     </blockquote>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-goal.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-goal.png">
     <br>
     <br>
     <p>
@@ -120,22 +120,22 @@
     <h2 id="2-1">نقطه‌ی ۱</h2>
     <p>پیام رو به s‌ تقسیم می‌کنیم. اولین نقطه فقط نقش نقطه‌ی تولیدکننده رو داره که با این مقدار ضرب شده: </p>
     <br><br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-point1.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-point1.png">
     <br><br>
     <h2 id="2-2">نقطه‌ی ۲</h2>
     <p>r رو به s تقسیم می‌کنیم. </p>
     <p>دومین نقطه فقط نقش کلید عمومی رو داره که با این مقدار ضرب شده:</p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-point2.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-point2.png">
     <br><br>
     <p>و در آخر … </p>
     <p>اگه این دو تا نقطه رو با هم جمع کنیم، یه نقطه‌ی سومی روی منحنی به دست میاریم: </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-add.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-add.png"><br><br>
     <p>و اگه مختصات x از این نقطه‌ی سوم با مختصات x‌ نقطه‌ی تصادفی که باهاش شروع کردیم (یعنی r) یکسان باشه، پس اثبات می‌شه 
     که امضای دیجیتال با استفاده از کلید خصوصی مربوط به این کلید عمومی تولید شده. 
     </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-final.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;"src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-final.png"><br><br>
     <br>
     <p><a href="https://learnmeabitcoin.com/beginners/digital_signatures_signing_verifying">منبع</a></p>
     <p>شاد زی..</p>

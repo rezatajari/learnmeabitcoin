@@ -26,7 +26,7 @@
     <h2 id="1">امضای دیجیتال چیه؟</h2>
     <p>امضای دیجیتال یه چیزیه که باهاش می‌تونین بدون نشون دادن<a href="./Private%20Keys.md"> کلید خصوصی</a> واقعی، ثابت کنین کلید خصوصی مرتبط به یه 
     <a href="./Public%20Keys.md">کلید عمومی</a> رو می‌دونید.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/01-digital-signature-usage.png"><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/01-digital-signature-usage.png"><br>
     <p>پس، هر وقت کسی ازتون پرسید که آیا کلید خصوصی مربوط به یه کلید عمومی به‌خصوص (یا آدرس) رو دارید، می‌تونین امضای 
     دیجیتال‌تون رو به عنوان اثبات نشون بدین. 
     </p>
@@ -40,11 +40,11 @@
     </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/02-transaction-data.png"><br><br>
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/02-transaction-data.png"><br><br>
     <p>اما اگه کلید خصوصی‌ت رو تو داده‌ی تراکنش قرار بدی، هر کسی تو شبکه می تونه کلید خصوصی‌ت رو ببینه: </p>
     <br>
     <br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/02-transaction-data-privkey.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/02-transaction-data-privkey.png">
     <br><br>
     <p>و اگه کسی به کلید خصوصی‌ت دست پیدا کنه، می‌تونه بیت‌کوین‌های دیگه‌ای که داخل همون آدرس هست رو باز کنه. 
     </p>
@@ -58,7 +58,7 @@
     </blockquote>
     <p>اما به‌ترین قسمتش اینه که استفاده از امضای دیجیتال به معنی ارائه نکردن کلید خصوصی به شبکه‌ست. </p>
     <br><br>
-    <img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/02-transaction-data-digsig.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/02-transaction-data-digsig.png">
     <br><br>
     <p>برای همینه که از امضای دیجیتال به جای قرار دادن مستقیم کلیدهای خصوصی‌مون توی داده‌ی تراکنش استفاده می‌کنیم. </p>
     <h2 id="4">چی باعث می‌شه که با استفاده از یه امضای دیجیتال، کسی نتونه بیت‌کوین‌های موجود دیگه‌ی همون آدرس من رو باز کنه؟ </h2>
@@ -69,13 +69,13 @@
     </blockquote>
     <p>یعنی این‌که تو فقط از کلید خصوصی‌ت برای تولید امضای دیجیتال استفاده نمی‌کنی … از کلید خصوصی‌ت به اضافه‌ی داده‌ی اصلی 
     تراکنش استفاده می‌کنی: </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-components.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-components.png">
     <br><br>
     <p>بنابراین، هر امضای دیجیتال به تراکنشی وصله که در اون استفاده می‌شه. </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-environment.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-environment.png"><br><br>
     <p>پس، اگه کسی بخواد از این امضای دیجیتال تو یه تراکنش دیگه استفاده کنه، این امضا با داده‌ی تراکنش در حافظه‌ی امضای دیجیتال 
     هم‌خوانی نخواهد داشت و گره‌های شبکه‌ی بیت‌کوین قبولش نمی‌کنن.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-environment-different.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/digital_signatures/png/03-digital-signature-environment-different.png"><br><br>
     <blockquote>در نتیجه، امضای دیجیتال هر تراکنش‌، از دستکاری شدن همون تراکنش هم محافظت می‌کنه. </blockquote>
     <br>
     <h2 id="5">امضاهای دیجیتال چطور کار می‌کنن؟</h2>

@@ -34,10 +34,10 @@
     <h2 id="1">یک کلید خصوصی، یک کلید عمومی، و یک آدرس چیست ؟</h2>
     <p>برای فرستادن و دریافت کردن پول به شکل بیت‌کوین شما نیاز به یه شماره حساب و رمز عبور دارید.</p>
     <p>که البته در بیت‌کوین این 2 رو به نام های کلید عمومی و کلید خصوصی نامگذاری می کنند.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/01-private-public.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/01-private-public.png">
     <p>Here are your account details. Welcome to Bitcoin.</p><br><br>
     <p>با این حال باید در نظر داشت که این شماره حساب زیاد مناسب نیست، (در ضمن از لحاظ تایپی هم سخته)، بنابراین برای اینکه بتوان از آن استفاده کرد نسخه کوچکتری از اون رو استفاده می کنیم، و اسم اون رو گذاشتن آدرس که درواقع همون آدرس ما است.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/01-private-public-address.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/01-private-public-address.png">
     <p>You’ll see how hideous the public key is in a moment.</p><br><br>
     <p>این نقش کلید خصوصی و کلید عمومی و آدرس رو بازی می کنه !!</p>
     <p>خب تا اینجا یه جمع بندی کنیم به طور خلاصه داریم:</p>
@@ -50,9 +50,9 @@
     <h2 id="2">آدرس ها و کلید ها از چه جایی پدید می آیند ؟</h2>
     <h3 id="2-1">کلید خصوصی</h3>
     <p>خب همه این جریانات از کلید خصوصی پدید می آیند، که تنها یه عملیات تصادفی ایجاد اعداد است با هم شکل رو می بینیم تا بهتر متوجه مطلب بشیم:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/02-random-private.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/02-random-private.png"><br><br>
     <p>اما چون این اعدا بسیار زیاد هست، کامپیوتر ها (و همینطور خود بیت‌کوین) علاقه به این دارن که از شکل کوتاه تری از این شماره ها استفاده کنند که اون حالت شانزده‌شانزدهی است:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/02-random-private-hex.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/02-random-private-hex.png">
     <p>Hexadecimal numbers are shorter than decimal numbers because they also use the letters a,b,c,d,e and f</p>
     <br><br>
     <p>و همینطور که می بینید ما یه کلید خصوصی داریم که البته شامل اعداد بسیار طولانی هستش (منتها به شکل شانزده‌شانزدهی).
@@ -74,17 +74,17 @@
     <h2 id="2-2">کلید عمومی</h2>
     <p>برای ایجاد کلید عمومی شما با استفاده از کلید خصوصی تون می تونید کلید عمومی رو ایجاد کنید !</p>
     <p>اول از همه این رو بدونیم کلیدی که توسط بقیه مردم دیده می شه کلید عمومی است و می تونیم براشون ارسال کنیم تا مثلا بیت‌کوینی رو به اون حساب واریز کنند، بنابراین زمانی که ما از کلید خصوصی‌مون برای ایجاد کلید عمومی استفاده می کنیم، لازم نیست کلید خصوصی خودمون رو به کسی نشون بدیم زیرا کلید خصوصی باید نزد خودمون باشه، و کلید خصوصی هستش که از بیت‌کوین های ما حفاظت می کنه و اون مقادیر رو در بَر داره.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/03-public-private-one-way.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/03-public-private-one-way.png">
     <p>Even though the public key is made from the private key, we don’t want anyone to be able to work backwards from it.</p><br><br>
     <p>خوشبختانه می تونیم از یه نوع تابع خاص ریاضی برای رسیدن به این هدف دست پیدا کنیم.</p>
     <p>ما تنها کلید خصوصی رو میدیم به اون تابع ریاضی، و در آخر تابع به ما یه کلید جدید میده بر اساس کلید خصوصی که داده شده که درواقع این کلید جدید همان کلید عمومی ما است.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/03-public-private-one-way-function.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/03-public-private-one-way-function.png"><br><br>
     <p>باید بدونیم که این تابع خاص ریاضی برای ما 2 مزیت داره:</p>
     <ol>
         <li>این تابع ریاضی به ما یه کلید عمومی بر میگردونه که این کلید عمومی از اتصال یه کلید خصوصی بوجود آمده است، که درواقع برای زمانی که می خواهیم بیت‌کوین رو در قالب تراکنش برای کسی بفرستیم مفید واقع می شود.
         </li>
         <br><br>
-        <img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/03-public-private-mathematical-fit.png">
+        <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/03-public-private-mathematical-fit.png">
         <p>It’s like starting with a key and creating a padlock from it.</p>
         <br><br>
         <li>حتی اگه بخوایم این کلید عمومی ایجاد شده رو یه جوری به کلید خصوصی ربط بدیم، نمی تونیم یا چطور بگم خیلی سخته خیلی خیلی خیلی خیلی سخته که بشه از روی کلید عمومی به کلید خصوصی دست پیدا کرد، به همین دلیل هستش که از این تابع خاص ریاضی استفاده می کنیم،
@@ -104,7 +104,7 @@
     <br>
     <h2 id="2-3">آدرس</h2>
     <p>خب ببینید تا الان ما به یک کلید عمومی رسیدیم که بازم شکل و شمایلش یه حالتی که شاید زیاد تمایل به تایپ اون داشته باشید، بنابراین میایم حالت عملی تری از اون رو معرفی می کنیم بنام آدرس.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/04-public-address-pretty.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/04-public-address-pretty.png">
     <p>Thank goodness for that!</p><br><br>
     <p>خب همانطور که در شکل بالا می بینید ما به نوعی کلید عمومی رو فشرده کردیم و به شکلی که اون رو آدرس می نامیم در آوردیم و از کاراکترهای مشابه ای مثل “0”, “O”, “o” or “l” استفاده نشده است.</p>
     <p>بنابراین ما تغییری رو تو ماهیت فهم کلید عمومی نبردیم و تنها اون رو بهبود بخشیدیم که به شکل مناسب تری دیده بشه و بتونیم راحت تر از اون استفاده کنیم، که این همون آدرس هستش.. یه نسخه کوتاه تر و ساده تر از کلید عمومی.
@@ -127,7 +127,7 @@
     <br>
     <h2 id="3">آیا ما باید همه 3 کلید ها رو بیاد داشته باشیم ؟</h2>
     <p>از اونجایی که کلید عمومی و همینطور آدرس بر گرفته از روی کلید خصوصی شماست، شما می تونید کلید خصوصی رو دور از کلید عمومی خود نگه دارید و در جایی امن ذخیره کنید.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/05-private-source.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/05-private-source.png">
     <p>Remember, your public key (and address) are worked out from your private key.</p>
     <br><br>
     <p>بنابراین اگه حتی در بدترین حالت ممکن باشه، اگه شما همیشه نیاز داشته باشید آدرس رو برای کسی بفرستید نیازی نیست کلید خصوصی رو برای کسی بفرستید و فقط کافیه آدرس خودتون رو که بر اساس کلید خصوصی بدست اومده رو ارسال کنید.</p>
@@ -136,12 +136,12 @@
     <h2 id="4">چه اتفاقی میوفته اگه کلید خصوصی رو از دست بدیم ؟</h2>
     <p>خب این می تونه بدترین اتفاق ممکن براتون باشه !</p>
     <p>غیر ممکن (خیلی خیلی سخت) هستش که شما از روی کلید عمومی و یا آدرس خودتون به کلید خصوصی دست پیدا کنید، نتیجه اینه که اگه شما کلید خصوصی خودتون رو از دست بدید، کلید خصوصی خود رو از دست رفته بدونید !</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/05-private-lost.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/05-private-lost.png"><br><br>
     <p>باید توجه کرد که اگه شما کلید خصوصی مربوط به آدرس خودتون رو از دست بدید، مقادیری که در اون آدرس دارید رو از دست داده اید، و اگه به اصطلاح کلید خصوصی رو گم کنید، کل اون مقادیر که در آدرس خودتون داشتید از دست رفته !!</p>
     <p>شاید بگید که این خیلی می تونه بد باشه، و خب بعله جواب اینه که همینطور هستش، کلید خصوصی اگه از دست بره ینی کل دارایی که در آدرس اون کلید خصوصی بوده از دست رفته.</p>
     <p>و از سوی دیگه تنها کلیدی که با استفاده از آن می‌شود به حساب شما دسترسی داشت همین کلید خصوصی هستش، بنابراین کسی نمی تونه به جز شما مسئول اون باشه و توسط بک دور اون رو بدست بیاره، مگه اینکه خودتون مسائل امنیتی رو رعایت نکنید که کلید خصوصی رو از دست بدید، لطفا مراقب کلید
         خصوصی خود باشید !</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/lol-customer-support.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/keys_addresses/png/lol-customer-support.png">
     <br><br>
     <p><a href="https://learnmeabitcoin.com/beginners/keys_addresses">منبع</a></p>
     <h2 dir="ltr">Fortunately, "You can take your <br> country out of Bitcoin, but you <br> can't take #Bitcoin out of your <br> country!" - @aantonop</h2>
