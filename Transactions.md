@@ -1,6 +1,8 @@
 <div dir="rtl">
-    <br>
-    <h2>فهرست مطالب</h2>
+    <h1>تراکنش‌ها</h1>
+    <p><span style="color: #999999;"> انتخاب دسته‌هایی از بیت‌کوین و ساخت دسته‌های جدید از اونا.</span></p>
+    <h2>فهرست</h2>
+        <hr>
     <ul>
         <li>
             <p><a href="#1">تراکنش بیت‌کوین چیه؟</a></p>
@@ -20,62 +22,71 @@
     </ul>
     <hr>
     <hr>
-    <h2>تراکنش</h2><br>
     <h2 id="1">تراکنش بیت‌کوین چیه؟</h2>
-    <p>تراکنش‌های بیت‌کوین دسته‌ای از داده‌ها هستن. این اطلاعات شامل مقدار ارسالی، اینکه این اطلاعات از کجا داره ارسال می‌شه، و به چه حسابی فرستاده می‌شه هست.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table.png"><br><br>
-    <p>این همون اطلاعات اساسی در تراکنش هست، و تمامی این‌ها رو می‌تونیم در قالب یه خط، که اسمش رو خط داده می‌ذاریم، نمایش بدیم:</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table-data.png"><br><br>
-    <p>حالا برگردیم عقب‌تر. فرض کنیم می‌خوایم چنین تراکنشی رو برای دوست یا هر شخص دیگه‌ای ارسال کنیم. در اینجا تنها کافیه که ما این تراکنش رو—که حاوی اطلاعات گفته شده هست—به شبکهٔ بیت‌کوین بفرستیم.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table-data-network.png"><br><br>
-    <p>درنهایت، وقتی این کار (ارسال به شبکهٔ بیت‌کوین) رو انجام دادیم، تراکنش شما باید توسط یه ماینر (استخراج‌گر) به داخل یه بلاک برده بشه—بلاکی که شامل تراکنش‌های مثل شما می‌شه، و همگی اون‌ها برای تأیید درستی و عوامل صدق معاملهٔ انجام‌شده فرآیندی رو طی
-        می‌کنن.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table-data-network-mined.png"><br><br>
-    <p>این کل قضیه‌ای هست که در تراکنش بیت‌کوین انجام می‌گیره. یعنی ما این تراکنش رو به داخل شبکهٔ بیت‌کوین می‌فرستیم، بعد منتظر می‌مونیم تا یه ماینر محترم بیاد، تراکنش ما رو برداره، زحمت بکشه اون رو داخل یه بلاک بذاره، و فرآیند تأیید اون طی بشه، قبول بشه، و به حساب مقصد بشینه.
+    <p><strong>تراکنش‌های بیت‌کوین دسته‌ای از داده‌ها هستن.
+    </strong></p>
+    <p> این داده‌ها شامل اطلاعاتی در مورد 
+    <strong>مقدار</strong>
+     در حال فرستادن، اینکه
+      <strong>از</strong>
+       چه حسابی داره فرستاده می‌شه، و 
+       <strong>به</strong>
+        چه حسابی فرستاده می‌شه، است.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table.png"><br><br>
+    <p>اینا اطلاعات سادن پس راحت می‌تونیم با یه خط داده نمایششون بدیم:</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table-data.png"><br><br>
+    <p>وقتی «تراکنش می‌زنی»، همین یه خط داده رو به شبکه‌ی بیت‌کوین می‌فرستی.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table-data-network.png"><br><br>
+    <p>در نهایت یکی از گره‌های شبکه تراکنش‌ت رو در یه بلوک استخراج می‌کنه، و این بلوک (که تراکنش تو رو داخل خودش داره) به فایل تراکنش‌های پذیرفته شده (زنجیره‌بلوک) افزوده می‌شه.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/01-transaction-table-data-network-mined.png"><br><br>
+    <p>این کل تراکنش بیت‌کوینه - خوروندن یه خط داده به شبکه‌ی بیت‌کوین و انتظار برای استخراج‌شدنش در زنجیره‌بلوک.
     </p>
     <br>
     <h2 id="2">تراکنش بیت‌کوین چه‌شکلی کار می‌کنه؟</h2>
     <p>
-        یه آدرس بیت‌کوین مثل شمارهٔ حسابی می‌مونه که بیت‌کوین‌ها در اون قرار دارن. این قسمت خیلی مهمه. درواقع، زمانی که شما تراکنشی رو انجام می‌دید، به این صورت نیست که شما مقداری از کوین‌هاتون رو از حساب خودتون خارج کنید و به حساب موردنظر بفرستید.
+        یه آدرس بیت‌کوین مثل شماره‌ی حسابی می‌مونه که بیت‌کوین‌ها در اون قرار دارن. اما زمانی که تراکنشی می‌زنی، اینطور نیست که مقدار دقیقی از کوین‌هاتون رو از یه کوزه برداری به یه کوزه‌ی دیگه بریزی.
     </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-pot.png"><br><br>
-    <p>به‌گونه‌ای هست که هر آدرس به‌طور فردی (مستقل) نگهداری می‌شه. برای مثال، فرض کنیم چندین نوع مقدار مختلف وارد حساب ما شده. این‌طور نیست که فکر کنیم همهٔ مقادیر با هم جمع و در قالب یه عدد کل نمایش داده می‌شن. درسته که شما موجودی کل رو در بالانس حساب می‌بینید، اما در قسمت فنی موضوع هر تراکنش به‌طور مستقل از یکدیگه در حساب قرار دارن و از لحاظ اطلاعات و داده‌ها از هم متفاوت هستن.
-    </p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1.png"><br><br>
-    <p>بنابراین، وقتی شما می‌خواید مقدار مشخصی از بالانس حسابتون رو برای حساب دیگه‌ای بفرستید، کل مقادیر قبلی‌ای رو که در حسابتون هست پیش‌رو دارید و باید از اون، مقدار موردنظر (ارسالی) رو درنظر گرفته و اون رو در قالب تراکنش برای مقصد بفرستید، که در اینجا می‌تونه شکل‌های گوناگونی به خودش بگیره.</p>
-    <p>نکته: این قسمت از فرآیند خودش یه موضوع کاملاً مهم و قابل‌تأ‌مله، که در چهارچوب کوین سلکشن می‌گنجه. بنده از توضیح اون در این مقاله اجتناب می کنم (البته شاید مباحث دیگه‌ای هم پیرامونش بیاد که من راجع به اون‌ها بی‌اطلاع باشم).</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2.png"><br><br>
-    <p>همچنین، اگه شخصی، که مقدار موردنظر رو به حسابش فرستادی، بخواد مبلغی رو برای شخص دیگه‌ای بفرسته، می‌تونه مقدار موردنظر ارسالی‌اش رو از کل مقادیری که دریافت کرده به حساب دیگه‌ای انتقال بده.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2-address3.png"><br><br>
-    <p>درکل، خیلی گیج نشید. این فرآیندها به‌طور خودکار انجام می‌گیرن (هرچند در بعضی کیف پول‌هاامکان انجام دستی اون‌ها وجود داره)، اما برای فهم فرآیند این موضوع بهتره این مسائل رو بدونیم، اما نه به بهای بیشترگمراه‌کردن خودمون.</p>
-    <p>بنابراین، ما مقادیر مختلف بیت‌کوین رو به‌صورت دسته‌ای دریافت کردیم، و مقدار موردنظری رو که می‌خواهیم بفرستیم از این دسته انتخاب و ارسال می‌کنیم. تراکنش‌ها این‌شکلی کار می‌کنن.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-pot.png"><br><br>
+<p>
+بجاش هر آدرس دونه دونه تراکنش‌هایی که دریافت کرده رو نگه‌داری می‌کنه:
+</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1.png"><br><br>
+    <p>:پس وقتی می‌خوای بیت‌کوین برای یکی دیگه بفرستی، مقدارهای کاملی که دریافت کردی رو برمی‌داری و باید باهاشون، مقادیر جدید به آدرس جدید بفرستی.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2.png"><br><br>
+    <p>همچنین، اگه دریافت‌کنندت، بخواد مبلغی رو برای شخص دیگه‌ای بفرسته، باید همینطوری مقدارهای کاملی که دریافت کرده رو مصرف کنه.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2-address3.png"><br><br>
+    <p>بنابراین، بیت‌کوین رو به‌صورت دسته‌ای دریافت می‌کنی، و این دسته‌ها رو مصرف می‌کنی تا دسته‌های جدید ارسال کنی و برای بقیه بفرستی. 
+    </p><p>تراکنش‌ها این‌شکلی کار می‌کنن.</p>
     <br>
-    <h2 id="3">صبر کن ببینم...</h2>
-    <p>«اگه مجموع مقادیر بیشتر از مقداری باشه که من می‌خوام بفرستم چی؟»</p>
-    <p>سؤال خوبیه. اینجا کافیه ما در خروجی، یه خروجی دیگه به‌صورت برگشتی به خودمون انجام بدیم؛ یعنی بگیم، «ای پروتکل، مقداری رو که برای ارسال نیاز هست کم کن، و مابقی اون رو به حساب خودم برگردون!»</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2-change.png"><br><br>
-    <p>در نگاه اول، وقتی به این نگاه می کنید، شاید یه کار پیش‌پاافتاده به‌نظر بیاد، اما در پشت ماجرا این جریان با چشم‌انداز برنامه‌نویسی انجام می‌شه، که بتونه به درستی کار کنه.</p>
+    <h3 id="3">صبر کن ببینم...</h3>
+    <p>«اگه مجموع دسته‌ها بیشتر از مقداری باشه که من می‌خوام بفرستم چی؟»</p>
+    <p>سوال خوبیه! اینجا (که بیشتر مواقع هم همینطوریه) کافیه در تراکنش، یه خروجی دیگه بذاریم و باقی پول رو به خودمون بفرستیم:»</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2-change.png"><br><br>
+    <p>در نگاه اول شاید این، عجیب به‌نظر بیاد، می‌دونم، اما در پشت ماجرا با چشم‌انداز برنامه‌نویسی روش دقیقیه، پس بهش عادت کن.</p>
     <br>
     <h2 id="4">خلاصه:</h2>
     <ol>
-        <li>ما یه آدرس بیت‌کوین داریم، که مقادیر بیت‌کوین به شکل دسته‌هایی از مقادیر به این آدرس ارسال می‌شن، که به اون‌ها خروجی گفته می‌شه.</li><br>
-        <li>یه تراکنش در بیت‌کوین، استفاده از همین دسته‌های مختلف مقادیر برای ساختن مقدار جدید ارسالی هست، که در قالب تراکنش نامگذاری می‌شه.</li><br>
-        <li>همهٔ این اطلاعات رو می‌شه در یه خط داده نشون داد.</li>
+        <li>یه آدرس بیت‌کوین داری، که بیت‌کوین به شکل دسته‌هایی از مقادیر به این آدرس ارسال می‌شن، که به اون‌ها خروجی گفته می‌شه.</li><br>
+        <li>یه تراکنش در بیت‌کوین، استفاده از همین خروجی‌ها (به عنوان ورودی تراکنش) برای ساختن خروجی جدیدِ متعلق به آدرسِ یک نفر دیگر است.</li><br>
+        <li>همه‌ی اینا رو می‌شه در یه خط داده نشون داد.</li>
     </ol>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2-change-data.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/02-address1-address2-change-data.png"><br><br>
+    <p>برای درک بهتر سازوکار خروجی‌ها به برگه‌ی خروجی‌ها نگاهی بندازید.</p>
     <br>
     <h2 id="5">چی باعث می‌شه یه نفر دیگه بیت‌کوین‌های من رو خرج نکنه؟</h2>
-    <p>یا به عبارت دیگه، اگه کل داده‌ها و فرستادن و گرفتن و نقل و انتقال در قالب یه خط داده نشون داده می‌شه، چرا نشه ما خودمون یه تراکنش ساختگی از این داده‌ها درست کنیم که به آدرس خودمون ارتباط داشته باشه.</p>
-    <p>جوابش اینه که هر معاملهٔ خروجی شامل یه قفل هست...</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-output-locks.png"><br><br>
-    <p>و اینجا شما اگه تراکنشی رو بدون درنظرگرفتن بازکردن قفل اون ایجاد کنید، نودها (گره‌ها)، که در شبکهٔ بیت‌کوین قرار دارن، تراکنش شما رو رد می‌کنن.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-output-locks-rejected.png"><br><br>
-    <p>خوشبختانه، آدرس بیت‌کوین شما همراه با یه کلید خصوصی میاد.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-address-key.png"><br><br>
-    <p>خب، حالا اگه بخواهید بیت‌کوینی رو به جایی بفرستید، با این کلید خصوصی خروجی‌های خودتون رو باز کرده و از اون‌ها استفاده می‌کنید.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-address-key-unlock.png"><br><br>
-    <p>بعد از اینکه خروجی‌های موردنظرتون رو—که می‌خواستید استفاده کنید—باز کردید، معامله (تراکنش) توسط گره‌های شبکهٔ بیت‌کوین تأیید و منتشر می‌شه.</p>
-    <br><br><img src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-output-locks-accepted.png"><br><br>
+    <p>«یا به عبارت دیگه، «اگه کل تراکنش زدن فقط خوروندن یه خط داده به شبکه بیت‌کوینه، چرا نشه یکی دیگه یه تراکنش ساختگی بسازه که از آدرس من به آدرس خودش بیت‌کوین بفرسته؟
+    »
+    </p>
+    <p>جوابش اینه که هر خروجی تراکنش یه قفل داره...</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-output-locks.png"><br><br>
+    <p>و اگه تراکنشی رو بدون بازکردن قفل خروجی ایجاد کنی، گره‌های شبکه تراکنشت رو رد می‌کنن.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-output-locks-rejected.png"><br><br>
+    <p>خوشبختانه، آدرس بیت‌کوینت یه کلید خصوصی هم داره.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-address-key.png"><br><br>
+    <p> حالا اگه بخواهی بیت‌کوینی رو به جایی بفرستی، با این کلید خصوصی خروجی‌های قرار گرفته در آدرس خودت رو باز می‌کنی.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-address-key-unlock.png"><br><br>
+    <p>بعد از اینکه خروجی‌هایی که می‌خواستی خرج کنی رو باز کردی، تراکنش توسط گره‌های شبکه‌ی بیت‌کوین تأیید و منتشر می‌شه.</p>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/transactions/png/03-output-locks-accepted.png"><br><br>
     <p>و این چگونگی عملکرد تراکنش‌های بیت‌کوین بود.</p>
     <p><a href="https://learnmeabitcoin.com/beginners/transactions">منبع</a></p>
     <p><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/04.%20Outputs.md">رفتن به مطلب بعد</a></p>
