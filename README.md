@@ -35,7 +35,7 @@
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Private%20Keys.md">Private Keys - کلید خصوصی</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Public%20Keys.md">Public Keys - کلید عمومی</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Digital%20Signatures.md">Digital Signatures - امضای دیجیتال</a></li>
-            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Digital%20Signatures%20(Signing%20%26%20Verifying).md">Digital Signatures (Signing & Verifying) - امضای دیجیتال(امضا کردن و تایید کردن)</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Digital%20Signatures%20(Signing%20%26%20Verifying).md">Digital Signatures (Signing & Verifying) - امضای دیجیتال(امضا کردن و راستی‌آزمایی)</a></li>
         </ul>
     </p>
     <h2>📞 ارتباط با من</h2>

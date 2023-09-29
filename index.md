@@ -32,7 +32,7 @@
             <li><a href="/Private%20Keys">Private Keys - کلید خصوصی</a></li>
             <li><a href="/Public%20Keys">Public Keys - کلید عمومی</a></li>
             <li><a href="/Digital%20Signatures">Digital Signatures - امضای دیجیتال</a></li>
-            <li><a href="/Digital%20Signatures%20(Signing%20%26%20Verifying)">Digital Signatures (Signing & Verifying) - امضای دیجیتال(امضا کردن و تایید کردن)</a></li>
+            <li><a href="/Digital%20Signatures%20(Signing%20%26%20Verifying)">Digital Signatures (Signing & Verifying) - امضای دیجیتال(امضا کردن و راستی‌آزمایی)</a></li>
         </ul>
     </p>
     <h2>🙌 مشارکت</h2>

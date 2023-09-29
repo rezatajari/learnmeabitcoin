@@ -87,7 +87,7 @@
     <blockquote>
         <p>می‌دونم که این پروسه در نگاه اول شبیه جادوگری می‌مونه؛ اما راستش رو بخوای تهش فقط محاسبات ریاضیه.</p>
         <p>و اگه دوست داری ببینی چطوری …. </p>
-        <p><a href="./Digital%20Signatures%20(Signing%20%26%20Verifying).md">امضاهای دیجیتال (امضا و تایید) </a></p>
+        <p><a href="./Digital%20Signatures%20(Signing%20%26%20Verifying).md">امضاهای دیجیتال (امضا و راستی‌آزمایی) </a></p>
     </blockquote>
     <hr>
     <br>
