@@ -23,6 +23,7 @@
         <ul>
 		    <li><a href="/Bitcoin Network">Bitcoin Network - شبکه‌ی بیت‌کوین</a></li>
 			<li><a href="/Nodes">Nodes - گره‌ها</a></li>
+            <li><a href="/Blockchain">Blockchain - زنجیره‌بلوک</a></li>
             <li><a href="/Blocks">Blocks - بلوک‌ها</a></li>
             <li><a href="/Difficulty">Difficulty - سختی شبکه</a></li>
             <li><a href="/Transactions">Transactions - تراکنش‌ها</a></li>

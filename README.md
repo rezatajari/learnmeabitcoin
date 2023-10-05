@@ -26,6 +26,7 @@
         <ul>
 		    <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Bitcoin Network.md">Bitcoin Network - شبکه‌ی بیت‌کوین</a></li>
 			<li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Nodes.md">Nodes - گره‌ها</a></li>
+            <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Blockchain.md">Blockchain - زنجیره‌بلوک</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Blocks.md">Blocks - بلوک‌ها</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Difficulty.md">Difficulty - سختی شبکه</a></li>
             <li><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/Transactions.md">Transactions - تراکنش‌ها</a></li>
@@ -91,5 +92,7 @@
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
