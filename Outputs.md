@@ -25,20 +25,20 @@
     </p>
     <p>
     فرض کن یه استخراج کننده‌ی بیت‌کوینی، بر اساس کاری که انجام دادی موفق شدی یه بلوک از تراکنش‌ها رو حل کنی و یه دسته بیت‌کوینِ 25تایی رو بدست آورده‌ای.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/00-generation-transaction.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/00-generation-transaction.png"><br><br>
     <p style="color: #999999; text-align: center; ">هر استخراج‌کننده‌‌ای (ماینر) آدرس خودش رو بالای هر بلوک قرار می‌ده که اگه موفق به حل بلوک بشه پاداش بیت‌کوین به این آدرس فرستاده بشه. به این تراکنش می‌گیم تراکنشِ ساخت.
     </p>
     <p>پس وضعیت فعلی آدرس بیت‌کوین تو این شد:</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-before.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/01-transaction1-before.png"><br><br>
     <p>به طور طبیعی می‌خوای جشن بگیری و نوشیدنی‌ای بر بدن بزنی.
     </p>
     <blockquote>
      شایدم پولت اضافه بیاد و هوس از دست دادنش
         به سرت زد و ریختی تو سایت‌های پانزی و اسکم !
     </blockquote>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-beer.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/01-beer.png"><br><br>
     <p> اولین چیزی که به ذهنت می‌رسه اینه که 1 دونه از اون دسته 25تایی بیت‌کوین رو برداری و خرج نوشیدنی رو بدی، منطقیه، ولی تراکنش اینطوری کار نمی‌کنه.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-chip.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/01-transaction1-chip.png"><br><br>
     <p>بجاش باید 
     <strong>کل دسته‌ی 25 بیت‌کوین</strong>
      رو تو تراکنش بفرستیم.</p>
@@ -49,7 +49,7 @@
         <li>(پرداخت)نوشیدنی‌فروشی</li>
         <li>باز به آدرس خودمون (باقی پول)</li>
     </ol>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/01-transaction1.png">
     <p style="color: #999999; text-align: center; ">به دسته‌های تازه ساخته شده می‌گیم خروجی.</p>
     <br><br>
     <p>درسته اینجا در ظاهر یه لقمه رو دور سر خودمون چرخوندیم ولی در نهایت نتیجه یکسانه 
@@ -60,7 +60,7 @@
     <p>
 بگذریم! در شکل زیر می‌بینیم که آدرس‌های بیت‌کوین بعد از تراکنش  به چه شکل درمیان:
     </p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/01-transaction1-after.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/01-transaction1-after.png"><br><br>
     <p style="color: #999999; text-align: center; "> نوشیدنی‌فروشی، یه دسته جدید 1 بیت‌کوینی داره، به خودمونم دسته 24 بیت‌کوینی فرستادیم. اون دسته‌ی 25تایی الان دیگه مصرف شده رفته.</p>
     <p>پس درسته که بنظر میاد 1 بیت‌کوین رو از حسابمون برداشتیم و به یه آدرس دیگه فرستادیم... ولی الان می‌دونیم واقعا چی شد.</p>
     <br>
@@ -79,13 +79,13 @@
     </h2>
     <p> از این به بعد بجای استفاده از کلمه‌ی «دسته» از «خروجی» استفاده می‌کنیم. </p>
     <p>چند روز گذشته و نوشیدنی‌فروشی‌ای که مشتریش بودیم، با توجه به آدرسش، نونش تو روغن بوده:</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2-before.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/02-transaction2-before.png">
     <br><br>
     <p>اما همانطور که می‌دونیم، نوشیدنی از رو درخت در نمیاد، پس نوشیدنی‌فروشمون الان دنبال خرید دستگاه نوشیدنی‌ساز جدیده.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-beer-machine.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/02-beer-machine.png"><br><br>
     <p>چه نوشیدنی‌ساز دوست داشتنی‌ای، با قیمت مفت 4.2 بیت‌کوین.
     </p><p>بخریمش.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/02-transaction2.png">
     <p style="color: #999999; text-align: center; ">ساخت تراکنش برای دستگاه نوشیدنی‌ساز. </p><br><br>
     <p> فکر کنم یه خرده شکلش رو شاخ و دم دار کشیدم، ولی خب توضیحش سخت نیست:</p>
     <ol>
@@ -105,7 +105,7 @@
            ایجاد می‌کنه.</li>
     </ol>
     <p>بعد از این تراکنش، وضع آدرس نوشیدنی‌فروشی اینطوریه:</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/02-transaction2-after.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/02-transaction2-after.png"><br><br>
     <p>دوباره توجه کن که خروجی‌هایی که به عنوان ورودی ازشون استفاده کردیم
     <strong> خرج شدن!</strong>
      و دیگه نمی‌شه ازشون استفاده کرد.</p>
@@ -135,7 +135,7 @@
 </blockquote>
 <br>
     <p>فرض کن تراکنش آخری رو تو شبکه نفرستادیم، بیا یه کارمزد بهش اضافه کنیم:</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/outputs/png/03-transaction2-fee.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/outputs/03-transaction2-fee.png"><br><br>
     <p>پس خروجیِ کارمزد تراکنش چی شد؟! خروجی کارمزدی درکار نیست ولی به <strong>اندازه‌ی خروجی‌ها</strong> دقت کن.</p>
     <b><strong>مجموع خروجی‌ها کمتر از مجموع ورودی‌هاست، یعنی مقداری بیت‌کوین مونده که مصرف نشده. این مقدار «باقی مونده» کارمزد تراکنشه.</strong></p>
     <blockquote>

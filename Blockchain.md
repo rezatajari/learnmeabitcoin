@@ -29,7 +29,7 @@
     </p>
     <figure>
         <img style="display: block; margin-left: auto; margin-right: auto;"
-            src="https://learnmeabitcoin.com/beginners/images/blockchain/png/01-blockchain_file.png" alt="">
+            src="./beginners/guide/blockchain/01-blockchain_file.png" alt="">
         <figcaption>
             <p style="color: #999999; text-align: center;">
                 زنجیره‌بلوک.
@@ -42,7 +42,7 @@
     </p>
     <figure>
         <img style="display: block; margin-left: auto; margin-right: auto;"
-            src="https://learnmeabitcoin.com/beginners/images/blockchain/png/02-bitcoin_network.png">
+            src="./beginners/guide/blockchain/02-bitcoin_network.png">
         <figcaption>
             <p style="color: #999999; text-align: center;">
                 شبکه‌ی بیت‌کوین: همه یه فایل مشترک از تراکنش‌ها (به نام زنجیره‌بلوک) دارن.
@@ -64,7 +64,7 @@
         بلوک‌های‌«پیوندی»مواجهیم یا به عبارت بهتر با یه «زنجیره»بلوک.</p>
     <figure>
         <img style="display: block; margin-left: auto; margin-right: auto;"
-            src="https://learnmeabitcoin.com/beginners/images/blockchain/png/03-blocks_chains.png">
+            src="./beginners/guide/blockchain/03-blocks_chains.png">
         <figcaption>
             <p style="color: #999999; text-align: center;">
                 تراکنش‌ها بلوک بلوک اضافه می‌شن و این بلوک‌ها به هم زنجیر شده.
@@ -81,7 +81,7 @@
         شبکه‌ی بیت‌تورنت همرسانی می‌شه.</p>
     <figure>
         <img style="display: block; margin-left: auto; margin-right: auto;"
-            src="https://learnmeabitcoin.com/beginners/images/blockchain/png/04-blocks_sharing.png">
+            src="./beginners/guide/blockchain/04-blocks_sharing.png">
         <figcaption>
             <p style="color: #999999; text-align: center;">
                 همرسانی فایل همتابه‌همتای بیت‌کوین برای زنجیره‌بلوک. اگر فایل من آخرین بلوک رو نداشت، یکی باهام همرسانیش
