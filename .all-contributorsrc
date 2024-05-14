@@ -85,6 +85,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "jahani",
+      "name": "Peyman Jahani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1670938?v=4",
+      "profile": "https://linktr.ee/PeymanJahani",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -92,5 +101,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "learnmeabitcoin",
-  "projectOwner": "rezatajari"
+  "projectOwner": "rezatajari",
+  "commitType": "docs"
 }

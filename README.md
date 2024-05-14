@@ -81,6 +81,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HT696"><img src="https://avatars.githubusercontent.com/u/83942452?v=4?s=100" width="100px;" alt="Hesam"/><br /><sub><b>Hesam</b></sub></a><br /><a href="#ideas-HT696" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/rezatajari/learnmeabitcoin/issues?q=author%3AHT696" title="Bug reports">🐛</a> <a href="#design-HT696" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/this-is-not-a-user"><img src="https://avatars.githubusercontent.com/u/131044475?v=4?s=100" width="100px;" alt="this-is-not-a-user"/><br /><sub><b>this-is-not-a-user</b></sub></a><br /><a href="#translation-this-is-not-a-user" title="Translation">🌍</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/PeymanJahani"><img src="https://avatars.githubusercontent.com/u/1670938?v=4?s=100" width="100px;" alt="Peyman Jahani"/><br /><sub><b>Peyman Jahani</b></sub></a><br /><a href="#content-jahani" title="Content">🖋</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -92,7 +95,5 @@
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
