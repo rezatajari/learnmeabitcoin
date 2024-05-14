@@ -42,7 +42,7 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve.png">
+        src="./beginners/guide/public-keys/01-elliptic-curve.png">
     <p style="color: #999999; text-align: center; ">خوشگله.</p>
     <br>
     <br>
@@ -50,7 +50,7 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve-g.png">
+        src="./beginners/guide/public-keys/01-elliptic-curve-g.png">
     <br>
     <br>
     <p>اگه ما روی این خم عملیات «ضرب» انجام بدیم (به عنوان مثال، نقطه رو در عدد دو «ضرب» کنیم)، می‌تونیم مثل تصویر زیر در
@@ -58,7 +58,7 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/01-elliptic-curve-g-multiplication.png">
+        src="./beginners/guide/public-keys/01-elliptic-curve-g-multiplication.png">
     <p style="color: #999999; text-align: center; ">یه ویژگی خاص خم بیضوی اینه که از هر جا روی خم خط مماس رسم کنیم حتما یه نقطه‌ی دیگه رو هم قطع می‌کنه.</p>
     <br>
     <br>
@@ -86,7 +86,7 @@
     <p>یا به عبارت دیگه، «کلید خصوصی بار روی خم بیضوی اینور و اونور بپر». اگه یادتون باشه، در مبحث مربوط به کلید خصوصی
         یاد گرفتیم که کلید خصوصی یه عدده که به‌صورت تصادفی تولید شده.</p>
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/02-public-key-multiplication.png">
+        src="./beginners/guide/public-keys/02-public-key-multiplication.png">
     <p style="color: #999999; text-align: center; ">گرفتی دیگه.</p>
     <br><br>
     <p>نقطه‌ی پایانی که روی خم بیضوی به‌دست میاد مختصاتی به شما می‌ده و این مختصات همون کلید عمومی شما رو
@@ -118,7 +118,7 @@
         می‌تونی y متناظر رو براساس معادله به‌دست بیاری.</p>
     <p>با این حال، چون y^2 در این معادله داریم، y ما می‌تونه عدد مثبت یا منفی باشه:</p>
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/03-y-polarity.png"><br><br>
+        src="./beginners/guide/public-keys/03-y-polarity.png"><br><br>
     <p>بنابراین، تنها اطلاعات اضافی‌ای که برای به‌دست‌آوردن مختصات دقیق y نیاز داری اینه که ببینی مختصات y در بالا
         یا پایین محور xه، و به لطف ویژگی خم بیضوی:</p>
     <ul>
@@ -132,7 +132,7 @@
         <li>فرد = 03</li>
     </ul>
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/03-y-polarity-prefix.png"><br><br>
+        src="./beginners/guide/public-keys/03-y-polarity-prefix.png"><br><br>
     <p>پس، در حالی‌ که کلید عمومی اصلی با 04 شروع می‌شه، یه کلید عمومی فشرده با 02 یا 03 شروع می‌شه:</p>
     <code>
     <p >public_key =
@@ -167,10 +167,10 @@
         <li>من می‌تونم کلید عمومیم رو از یه سری ریاضیات دیگه‌ی خم بیضوی رد کنم تا مقدار جدید دیگه‌ای بگیرم.</li><br>
     </ol>
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/04-keys-ec-math.png"><br><br>
+        src="./beginners/guide/public-keys/04-keys-ec-math.png"><br><br>
     <p>کمی هم‌پوشانی بین این دو مقدار خواهد بود.</p>
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/public_keys/png/04-keys-ec-math-verification.png">
+        src="./beginners/guide/public-keys/04-keys-ec-math-verification.png">
     <p style="color: #999999; text-align: center; ">به مقدار جدیدی که من می‌تونم از کلید خصوصیم ایجاد کنم میگن امضای دیجیتال.</p><br><br>
     <p>و...</p>
     <br>
@@ -181,7 +181,7 @@
     <br>
     <h3 id="9">نتیجه</h3>
     <p>زنده‌باد خم بیضوی.</p>
-    <p><a href="https://learnmeabitcoin.com/beginners/public_keys">منبع</a></p>
+    <p><a href="https://learnmeabitcoin.com/beginners/guide/public-keys/">منبع</a></p>
     <p><a href="https://github.com/rezatajari/learnmeabitcoin/blob/master/09.%20Digital%20Signatures.md">رفتن به مطلب
             بعد</a></p>
     <p>لئوناردو دا وینچی: «هیچ دانشی را نمی‌توان واقعی دانست مگر آنکه به‌صورت ریاضی نوشته شود.»</p>

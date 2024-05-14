@@ -44,7 +44,7 @@
         استفاده می‌شه) ضرب می‌کنیم.
     </p>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-point.png">
+        src="./beginners/guide/digital-signatures/04-signing-random-point.png">
     <br>
     <br>
     <p>جز تصادفی امضای دیجیتال، نقطه‌ای روی خم بیضویه که نتیجه‌ی نهایی رو می‌ده. اما ما فقط مختصات xش رو در نظر می‌گیرم:
@@ -52,14 +52,14 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-point-x.png">
+        src="./beginners/guide/digital-signatures/04-signing-random-point-x.png">
     <br>
     <br>
     <p>به اختصار بهش می‌گیم «r». </p>
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-random-r.png">
+        src="./beginners/guide/digital-signatures/04-signing-random-r.png">
     <br>
     <br>
     <p><strong>عملا این کار شبیه تولید یه کلید خصوصی و یه کلید عمومیه. با این تفاوت که این‌جا داریم این کار رو می‌کنیم
@@ -75,7 +75,7 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey.png">
+        src="./beginners/guide/digital-signatures/04-signing-signature-r-privkey.png">
     <br>
     <br>
     <p>مرحله‌ی بعد، چیزی رو که قراره امضا کنیم رو هم بهش اضافه می‌کنیم. به این چیز «پیام» گفته می‌شه. در بیت‌کوین،
@@ -84,7 +84,7 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey-thing.png">
+        src="./beginners/guide/digital-signatures/04-signing-signature-r-privkey-thing.png">
     <p style="color: #999999; text-align: center;"> افزودن هش تراکنش، باعث می‌شه که امضا به یه تراکنش وصل بشه (و قابل
         استفاده برای تراکنش دیگه‌ای نباشه.)</p>
     <br>
@@ -93,14 +93,14 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-r-privkey-thing-randnum.png">
+        src="./beginners/guide/digital-signatures/04-signing-signature-r-privkey-thing-randnum.png">
     <br>
     <br>
     <p>و… هجی مجی لاترجی! جزء حیاتی «امضا» از امضای دیجیتال‌مون آماده‌ست. به اختصار به این بخش می‌گیم «s». </p>
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/01-signing-signature-rs.png">
+        src="./beginners/guide/digital-signatures/04-signing-signature-rs.png">
     <p style="color: #999999; text-align: center;">Mr. D Signature.</p>
     <br>
     <hr>
@@ -121,7 +121,7 @@
         <br>
         <br>
         <img style="display: block; margin-left: auto; margin-right: auto;"
-            src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-goal.png">
+            src="./beginners/guide/digital-signatures/05-verifying-goal.png">
         <br>
     </blockquote>
     <br>
@@ -136,7 +136,7 @@
     <p>پیام رو به s‌ تقسیم می‌کنیم. اولین نقطه، نقطه‌ی تولیدکننده است که در این مقدار ضرب شده: </p>
     <br><br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-point1.png">
+        src="./beginners/guide/digital-signatures/05-verifying-point1.png">
     <br><br>
     <h3 id="2-2">نقطه‌ی ۲</h3>
     <p>r رو به s تقسیم می‌کنیم. </p>
@@ -144,22 +144,22 @@
     <br>
     <br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-point2.png">
+        src="./beginners/guide/digital-signatures/05-verifying-point2.png">
     <br><br>
     <h3>و در آخر … </h3>
     <p>اگه این دو تا نقطه رو با هم جمع کنیم، یه نقطه‌ی سومی روی خم به دست میاریم: </p>
     <br><br><img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-add.png"><br><br>
+        src="./beginners/guide/digital-signatures/05-verifying-add.png"><br><br>
     <p>و اگه مختصات x از این نقطه‌ی سوم با مختصات x‌ نقطه‌ی تصادفی که باهاش شروع کردیم (یعنی r) یکسان باشه، پس اثبات
         می‌شه
         که امضای دیجیتال با استفاده از کلید خصوصی مربوط به این کلید عمومی تولید شده.
     </p>
     <br><br>
     <img style="display: block; margin-left: auto; margin-right: auto;"
-        src="https://learnmeabitcoin.com/beginners/images/digital_signatures_signing_verifying/png/02-verifying-final.png"/>
+        src="./beginners/guide/digital-signatures/05-verifying-final.png"/>
     <br><br>
     <br>
-    <p><a href="https://learnmeabitcoin.com/beginners/digital_signatures_signing_verifying">منبع</a></p>
+    <p><a href="https://learnmeabitcoin.com/beginners/guide/digital-signatures">منبع</a></p>
     <p>شاد زی..</p>
     <p>اینم آخرین قسمت./</p>
 </div>

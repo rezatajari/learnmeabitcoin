@@ -24,7 +24,7 @@
   <p>شبکه&zwnj;ی بیت&zwnj;کوین از همه&zwnj;ی کسایی تشکیل شده که نرم&zwnj;افزار بیت&zwnj;کوین، یا همون نرم&zwnj;افزار
     مشتری (کلاینت) بیت&zwnj;کوین رو اجرا می&zwnj;کنن.</p><br>
   <br><img style="display: block; margin-left: auto; margin-right: auto;"
-    src="https://learnmeabitcoin.com/beginners/images/network/png/01-software_network.png" alt="" width="600"
+    src="./beginners/guide/network/01-software_network.png" alt="" width="600"
     height="416" /><br>
   <p style="text-align: center;color: #999999;">بیت&zwnj;کوین یه شبکه از آدماییه که یه برنامه&zwnj;ی
     کامپیوتری یکسان اجرا می&zwnj;کنن.</p>
@@ -32,7 +32,7 @@
   <p>آدما (یا درست&zwnj;تر بگیم همون نرم&zwnj;افزارای مشتری&zwnj; بیت&zwnj;کوین) روی شبکه <strong>با هم حرف
       می&zwnj;زنن.</strong></p>
   <br><img style="display: block; margin-left: auto; margin-right: auto;"
-    src="https://learnmeabitcoin.com/beginners/images/network/png/02-software_network_talking.png" alt="" width="600"
+    src="./beginners/guide/network/02-software_network_talking.png" alt="" width="600"
     height="433" /><br>
   <p style="text-align: center;color: #999999;">خیلی اجتماعی</p>
 
@@ -41,13 +41,13 @@
     <strong>دانشی در مورد یه تراکنش جدید</strong> باشه.
   </p>
   <p style="text-align: center;"><img
-      src="https://learnmeabitcoin.com/beginners/images/network/png/03-software_network_talking_transaction.png" alt=""
+      src="./beginners/guide/network/03-software_network_talking_transaction.png" alt=""
       width="600" height="452" />.<br /><span style="color: #999999;">همرسانی اطلاعات در مورد تراکنش&zwnj;های
       جدید</span></p>
   <p>همرسانی اطلاعات (مانند تراکنش&zwnj;ها) چیزیه که می&zwnj;ذاره همه روی شبکه بتونن بروز بمونن، که خیلی مهمه اگه بخوای
     یه ارز دیجیتالی روی اینترنت اجرا کنی.</p>
   <br><img style="display: block; margin-left: auto; margin-right: auto;"
-    src="https://learnmeabitcoin.com/beginners/images/network/png/04-software_network_talking_transaction_consensus.png"
+    src="./beginners/guide/network/04-software_network_talking_transaction_consensus.png"
     alt="" width="600" height="400" /><br>
   <p style="text-align: center;color: #999999;">سرانجام همه در مورد تراکنشای جدید خبر دارن. (آفرین به
     این) شبکه&zwnj;ی خوب.</p>
@@ -70,7 +70,7 @@
     یه نرم&zwnj;افزاره مثل تمام نرم&zwnj;افزارای دیگه.</p>
   <p>هر زمان آوردیش بالا شدی یه گره(نود) توی شبکه&zwnj;ی بیت&zwnj;کوین.</p>
   <br><img style="display: block; margin-left: auto; margin-right: auto;"
-    src="https://learnmeabitcoin.com/beginners/images/network/png/05-nodes_network.png" alt="" width="600"
+    src="./beginners/guide/network/05-nodes_network.png" alt="" width="600"
     height="416" /><br />
   <p style="text-align: center;color: #999999;"> گره - یه راهِ یه خورده فشرده&zwnj;تر گفتن &laquo;یکی که نرم&zwnj;افزار
     مشتری

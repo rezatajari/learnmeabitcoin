@@ -36,7 +36,7 @@
     <strong>سختی شبکه عددیه که اینکه چقدر طول می‌کشه استخراج‌کننده‌ها بلوک جدیدی از تراکنش‌ها رو به زنجیره‌بلوک اضافه کنند، رو تنظیم می‌کنه.
     </strong>
     </p>    <p></p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/00-difficulty.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/00-difficulty.png"><br><br>
     <p>درجه‌ی سختی هر دو هفته بروزرسانی می‌شه تا همیشه افزودن بلوک جدید (میانگین) ده دقیقه طول بکشه.
     </p>
     <br>
@@ -73,13 +73,13 @@
     <p>این قسمت رو با یه مثال جلو می‌بریم.</p>
     <h3 id="4-1">۱. مثال ساده</h3>
     <p>فرض کنیم یه بازه از اعداد بین ۱ تا ۱۰۰ جلوی شما میذارم.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/01-range.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/01-range.png"><br><br>
     <p>شما می‌تونید در هر دقیقه یه عدد بین ۱ تا ۱۰۰ به‌صورت تصادفی در بیارید. هدفتون اینه که عددی در بیارید که از عددی که مد نظر منه کمتر باشه.</p>
     <p>فرض می‌کنیم من عدد ۵۰ رو درنظر گرفتم.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/01-range_target.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/01-range_target.png"><br><br>
     <p>با توجه به این که در هر دقیقه فقط یک بار قادر به در آوردن شماره‌ای بین ۱ تا ۱۰۰ اید، دو دقیقه زمانتون رو باید بگیره.</p>
     <p>اما این خیلی آسونه. پس هدف رو به ۲۰ تغییر می‌دم، که یعنی حالا می‌تونید ۱/۵ دفعه قبل عدد برنده در بیارید، یعنی الان هر پنج دقیقه یه بار برنده می‌شید.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/01-range_target_20.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/01-range_target_20.png"><br><br>
     <p>هرجقدر هدف کمتر باشه، در آوردن عدد برنده سخت‌تر میشه.</p>
     <blockquote>
     هر دفعه قرار نیست 5 دقیقه وقت ببره. شاید شما بار اول که عدد در میارید، خوش‌شانس باشید و عددتون برنده باشه. ولی در بلند‌مدت به همون بازه‌های پنج دقیقه‌ای خواهید رسید.
@@ -92,7 +92,7 @@
     </p>
     <br>
     <br>
-    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/01-range_target_difficulty.png">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/01-range_target_difficulty.png">
     <p >این عدد جدید می‌تونه سقف هدف رو کنترل کنه.</p><br><br>
     <p><strong>
     این عدد جدید همون سختی شبکه‌ست، که یه راه سادست برای منِ کامپیوتر که سقف هدف رو تغییر بدم:
@@ -100,7 +100,7 @@
     </p>
     <p >هدف = بیشترین مقدار ممکن برای هدف/سختی</p>
     <p>من میتونم از مقدار سختی استفاده کنم که هدف رو روی هر سطحی میخوام بذارم:</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/01-range_target_difficulty_examples.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/01-range_target_difficulty_examples.png">
     <p >هرچه سختی بیشتر، هدف کمتر.</p><br><br>
     <p>پس از سختی استفاده میکنم تا هدف رو تنظیم کنم و در نتیجه تنظیم کنم که چقدر طول بکشه که تو عدد برنده در بیاری.</p>
     <h3 id="4-2">۲. مثال بیت‌کوین</h3>
@@ -112,18 +112,18 @@
          رو هش می‌کنن)
       به این امید که یه عدد کوچک‌تر از هدف پیدا کنند.
     </p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/02-bitcoin_target_hash.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/02-bitcoin_target_hash.png">
     <p >و با توجه به اینکه استخراج‌کننده‌های بیت‌کوین می‌تونن هزاران هزار عدد (مقدار هش) بر دقیقه در بیارن، بیت‌کوین از عددای خیلی خیلی بزرگی استفاده می‌کنه.</p><br><br>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/02-bitcoin_range.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/02-bitcoin_range.png">
     <p >عددای بیت‌کوین اصلا تو یه دنیای دیگه‌ست.</p><br><br>
     <p>ازاونجایی که الائ هزاران استخراج‌کننده در حال تلاش برای به‌دست‌آوردن عدد برنده‌اند، برای اطمینان از اینکه عدد برنده هر 10 دقیقه یکبار پیدا میشه (به جای هر چند ثانیه)، اون بازه عدد برنده به نسبت خیلی خیلی کوچک در میاد.
     </p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/02-bitcoin_range_target.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/02-bitcoin_range_target.png">
     <p >با وجود اینکه عدد سختی بزرگ بنظر میرسه، خیلی خیلی سخته که عددی زیر هدف در بیاد. مثل لاتاری میمونه.</p><br><br>
     <br>
     <h2 id="5">معرفی اعداد شازنده‌شانزدهی</h2>
     <p>ازاونجایی‌که اعدادی که ما با اون‌ها در این شبکه سروکار داریم اعداد بزرگی هستن، کامپیوتر ترجیح می‌ده با اون‌ها به شکل شازنده‌شانزدهی کار کنه.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/02-bitcoin_range_target_hex.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/02-bitcoin_range_target_hex.png"><br><br>
     <p>به‌این دلیله که هش هر بلوک یه چیزی شبیه به این می‌شه:</p>
     <p>000000000003ba27aa200b1cecaad478d2b00432346c3f1f3986da1afd33e506</p>
     <p>شازنده‌شانزدهیه.
@@ -170,7 +170,7 @@
     <p>
 خیلی  مسخره، سختی شبکه معمولا به شکل ده‌دهی داده می‌شن ولی هش‌ها و هدف‌ها شازنده‌شانزدهی ذخیره میشن.
      اما همونطور که گفتم، اینا جفت عددن و تا زمانی که به یه شکل یکسان تبدیلشون کنید میتونید باهاشون کار کنید.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/blockheader_hexadecimal_decimal.png">
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/blockheader_hexadecimal_decimal.png">
     <p>سربرگ بلوک 100,000 . 
     هدف شانزده‌شانزدهیه, اما به شکل فشرده در سربرگ ذخیره شده (که بهش میگن بیتس).</p>
     <br><br>
@@ -178,7 +178,7 @@
     <h2 id="6">سختی فعلی شبکه رو کجا می‌شه پیدا کرد؟</h2>
     <p>می‌شه با واردکردن دستور getdifficulty در نرم‌افزار مشتری (کلاینت) بیت‌کوین سختی الان شبکه رو دید.</p>
     <p>همین‌طور می‌شه سختی شبکه رو کنار بقیه‌ی دانستنی‌های استخراج با دستور getmininginfo دید.</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="https://learnmeabitcoin.com/beginners/images/difficulty/png/getdifficulty.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/difficulty/getdifficulty.png"><br><br>
     <p> اگه مشتری بیت‌کوین دم دست ندارید، می‌تونید سختی شبکه رو از آدرس زیر ببینید:</p>
     <p><a href="http://chainquery.com/bitcoin-api/getdifficulty">http://chainquery.com/bitcoin-api/getdifficulty</a></p>
     <p>همین‌طور اگه علاقه‌مند هستید که بدونید سختی شبکه در طول زمان چطور تغییر کرده، می‌تونید از سایت زیر و نمودارش استفاده کنید:</p>
