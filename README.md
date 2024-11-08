@@ -42,7 +42,7 @@
     <h2>📞 ارتباط با من</h2>
     <p>
         - <a href="mailto:reza.tajari70@gmail.com">ایمیل</a><br>
-        - <a href="https://telegram.me/gateofmoney">تلگرام</a><br>
+        - <a href="https://telegram.me/rezatajari70">تلگرام</a><br>
         - <a href="http://https//www.linkedin.com/in/reza-tajari-971818151/">لینکدین</a>
     </p>
     <h2>🙌 مشارکت</h2>
