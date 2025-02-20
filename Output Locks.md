@@ -22,7 +22,7 @@
     <h2 id="1">قفل خروجی چیه؟</h2>
     <p>قفل خروجی یک سری پیش‌نیاز گذاشته شده روی خروجیه. این به این معنیه که باید اول این پیش‌نیازها رفع بشه تا بشه خروجی رو توی یه تراکنش استفاده کرد.</p>
     <p>برای مثال رایج‌ترین حالت قفل خروجی چیزی شبیه به اینه:</p>
-    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/output_locks/01-output-lock-english.png"><br><br>
+    <br><br><img style="display: block; margin-left: auto; margin-right: auto;" src="./beginners/guide/locks/01-output-lock-english.png"><br><br>
     <p>این قفل‌هان که جلوی ما رو می‌گیرن که نتونیم خروجی همدیگه رو تو تراکنش خرج کنیم، چون حالا روی هر خروجی یه قفل زده شده.</p>
     <br>
     <h2 id="2">
